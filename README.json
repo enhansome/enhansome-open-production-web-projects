@@ -1,0 +1,1758 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sentry",
+          "description": "Cross-platform application monitoring, with a focus on error reporting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:27:58Z",
+            "owner": "getsentry",
+            "repo": "sentry",
+            "stars": 44538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PostHog",
+          "description": "Developer-friendly, open-source product analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:24:10Z",
+            "owner": "PostHog",
+            "repo": "posthog",
+            "stars": 37642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zulip",
+          "description": "Powerful, open source group chat application that combines the immediacy of real-time chat with the productivity benefits of threaded conversations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T07:46:41Z",
+            "owner": "zulip",
+            "repo": "zulip",
+            "stars": 25688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Saleor",
+          "description": "Modular, high performance, headless e-commerce storefront.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T09:33:06Z",
+            "owner": "saleor",
+            "repo": "saleor",
+            "stars": 23219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doccano",
+          "description": "Open source text annotation tool for machine learning practitioner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-14T21:16:25Z",
+            "owner": "doccano",
+            "repo": "doccano",
+            "stars": 10736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flagsmith",
+          "description": "Feature flagging and remote config service",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:10:26Z",
+            "owner": "Flagsmith",
+            "repo": "flagsmith",
+            "stars": 6511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cabot",
+          "description": "Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-09-10T09:23:26Z",
+            "owner": "arachnys",
+            "repo": "cabot",
+            "stars": 5671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shynet",
+          "description": "Modern, privacy-friendly, and cookie-free web analytics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-15T23:00:29Z",
+            "owner": "milesmcc",
+            "repo": "shynet",
+            "stars": 3150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hawkpost",
+          "description": "Generate links that users can use to submit messages encrypted with your public key.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-09T04:45:37Z",
+            "owner": "whitesmith",
+            "repo": "hawkpost",
+            "stars": 952
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mozilla Add-on",
+          "description": "Mozilla Firefox add-on listing page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:30:25Z",
+            "owner": "mozilla",
+            "repo": "addons-server",
+            "stars": 900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taiga",
+          "description": "Agile project management platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T11:59:13Z",
+            "owner": "taigaio",
+            "repo": "taiga-back",
+            "stars": 844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Piaf",
+          "description": "Question Answering annotation platform",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-01-21T13:17:24Z",
+            "owner": "etalab",
+            "repo": "piaf",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thenewboston.com",
+          "description": "REST API for thenewboston.com.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-17T18:45:37Z",
+            "owner": "thenewboston-blockchain",
+            "repo": "Website-API",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ship",
+          "description": "Services web app for SHIP, Student Homelessness Initiative Partnership of Frederick County",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-04-22T04:22:25Z",
+            "owner": "TechFrederick",
+            "repo": "ship",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "edX",
+          "description": "A massive open online course (MOOC) provider created by Harvard and MIT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:32:41Z",
+            "owner": "edx",
+            "repo": "edx-platform",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lifesavingrankings",
+          "description": "Lifesaving Rankings tracks results for lifesaving pool competitions",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-01-07T04:27:11Z",
+            "owner": "rubenvanerk",
+            "repo": "lifesavingrankings",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Django"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Confidant",
+          "description": "Confidant: your secret keeper",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-02-14T23:34:34Z",
+            "owner": "lyft",
+            "repo": "confidant",
+            "stars": 1856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Omnibot",
+          "description": "One slackbot to rule them all",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-03T17:46:47Z",
+            "owner": "lyft",
+            "repo": "omnibot",
+            "stars": 86
+          }
+        }
+      ],
+      "title": "Flask"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mastodon",
+          "description": "free, open-source social network server based on ActivityPub where users can follow friends and discover new ones",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T22:16:01Z",
+            "owner": "mastodon",
+            "repo": "mastodon",
+            "stars": 50204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discourse",
+          "description": "A platform for community discussion built for the next decade of the Internet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T03:59:48Z",
+            "owner": "discourse",
+            "repo": "discourse",
+            "stars": 47643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dev.to",
+          "description": "A platform where software developers write articles, take part in discussions, and build their professional profiles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T21:23:42Z",
+            "owner": "forem",
+            "repo": "forem",
+            "stars": 22761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spree",
+          "description": "E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T20:53:37Z",
+            "owner": "spree",
+            "repo": "spree",
+            "stars": 15616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zammad",
+          "description": "Zammad is a web based open source helpdesk/customer support system with many features to manage customer communication via several channels like telephone, facebook, twitter, chat and e-mails",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T13:46:15Z",
+            "owner": "zammad",
+            "repo": "zammad",
+            "stars": 5845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solectrus",
+          "description": "Photovoltaics Dashboard",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T08:22:58Z",
+            "owner": "solectrus",
+            "repo": "solectrus",
+            "stars": 161
+          }
+        }
+      ],
+      "title": "Ruby on Rails"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RocketChat",
+          "description": "Free Open Source Solution for team communications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:10:38Z",
+            "owner": "RocketChat",
+            "repo": "Rocket.Chat",
+            "stars": 45968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reaction",
+          "description": "Reaction is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-01T22:35:00Z",
+            "owner": "reactioncommerce",
+            "repo": "reaction",
+            "stars": 12399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spectrum Chat",
+          "description": "Simple, powerful online communities.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-07-20T03:30:21Z",
+            "owner": "withspectrum",
+            "repo": "spectrum",
+            "stars": 10835
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Statusfy",
+          "description": "Statusfy is a Status Page System, easy to use and completely Open Source. You can easily create a fast System, Static Generated, and easily deploy it to a variety of hosting services.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-06-12T17:42:10Z",
+            "owner": "juliomrqz",
+            "repo": "statusfy",
+            "stars": 2628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parabol",
+          "description": "Free online agile retrospective meeting tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:45:43Z",
+            "owner": "ParabolInc",
+            "repo": "parabol",
+            "stars": 2008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paisley",
+          "description": "Paisley is an open-source alternative to mailbrew built with freedom in mind.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-01T10:12:54Z",
+            "owner": "uduakabaci",
+            "repo": "Paisley",
+            "stars": 104
+          }
+        }
+      ],
+      "title": "Javascript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wiki.js",
+          "description": "Wiki.js | A modern, lightweight and powerful wiki app built on Node.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-13T02:59:49Z",
+            "owner": "requarks",
+            "repo": "wiki",
+            "stars": 28750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ackee",
+          "description": "Self-hosted, Node.js based analytics tool for those who care about privacy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-25T09:01:11Z",
+            "owner": "electerious",
+            "repo": "Ackee",
+            "stars": 4689
+          }
+        }
+      ],
+      "title": "Apollo Server"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chartbrew",
+          "description": "Open-source web platform for creating charts out of different data sources (databases and APIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:31:36Z",
+            "owner": "chartbrew",
+            "repo": "chartbrew",
+            "stars": 3974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gladys",
+          "description": "A privacy-first, open-source home assistant",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T13:55:02Z",
+            "owner": "GladysAssistant",
+            "repo": "Gladys",
+            "stars": 3100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Veniqa",
+          "description": "Full Stack E-Commerce Solution. Veniqa (Originally Veniqa New York) was a New York-based fashion retail startup that served consumers in South Asian countries to shop from luxury western brands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-02T11:38:54Z",
+            "owner": "Viveckh",
+            "repo": "Veniqa",
+            "stars": 1189
+          }
+        }
+      ],
+      "title": "Express"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Calendso",
+          "description": "The open-source Calendly alternative.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T17:13:42Z",
+            "owner": "calcom",
+            "repo": "cal.diy",
+            "stars": 47491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Umami",
+          "description": "Umami is a simple, fast, website analytics alternative to Google Analytics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T03:55:08Z",
+            "owner": "umami-software",
+            "repo": "umami",
+            "stars": 38175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cusdis",
+          "description": "lightweight, privacy-friendly alternative to Disqus.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-07-17T11:28:03Z",
+            "owner": "djyde",
+            "repo": "cusdis",
+            "stars": 2783
+          }
+        }
+      ],
+      "title": "NextJS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Joplin",
+          "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:20:59Z",
+            "owner": "laurent22",
+            "repo": "joplin",
+            "stars": 55925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twitter Search",
+          "description": "Instantly search across your entire Twitter history.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-04T11:31:51Z",
+            "owner": "transitive-bullshit",
+            "repo": "twitter-search",
+            "stars": 351
+          }
+        }
+      ],
+      "title": "Koa"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mattermost",
+          "description": "Open source, private cloud, Slack-alternative",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:21:26Z",
+            "owner": "mattermost",
+            "repo": "mattermost",
+            "stars": 38745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drone",
+          "description": "Container-Native, Continuous Delivery Platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:53:10Z",
+            "owner": "harness",
+            "repo": "harness",
+            "stars": 37793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "listmonk",
+          "description": "listmonk is a standalone, self-hosted, newsletter and mailing list manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T19:21:33Z",
+            "owner": "knadh",
+            "repo": "listmonk",
+            "stars": 22766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MailHog",
+          "description": "Web and API based SMTP testing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-02-13T18:38:41Z",
+            "owner": "mailhog",
+            "repo": "MailHog",
+            "stars": 16117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Replay",
+          "description": "developer-friendly, open-source session replay.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T12:29:11Z",
+            "owner": "openreplay",
+            "repo": "openreplay",
+            "stars": 12490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sreengo",
+          "description": "screen sharing for developers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T08:41:53Z",
+            "owner": "screego",
+            "repo": "server",
+            "stars": 10493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Berty",
+          "description": "A secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T14:21:38Z",
+            "owner": "berty",
+            "repo": "berty",
+            "stars": 9271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GrowthBook",
+          "description": "The Open Source A/B Testing Platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:16:45Z",
+            "owner": "growthbook",
+            "repo": "growthbook",
+            "stars": 8119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fanthom",
+          "description": "Simple, privacy-focused website analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-18T09:11:04Z",
+            "owner": "usefathom",
+            "repo": "fathom",
+            "stars": 8013
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Statping",
+          "description": "Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-07-05T05:43:00Z",
+            "owner": "statping",
+            "repo": "statping",
+            "stars": 7292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Goat Counter",
+          "description": "GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. It aims to offer easy to use and meaningful privacy-friendly web analytics as an alternative to Google Analytics or Matomo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-08T18:28:57Z",
+            "owner": "arp242",
+            "repo": "goatcounter",
+            "stars": 5878
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flipt",
+          "description": "A modern feature flag solution",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:02:51Z",
+            "owner": "flipt-io",
+            "repo": "flipt",
+            "stars": 4870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fider",
+          "description": "Open platform to collect and prioritize product feedback",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T11:06:12Z",
+            "owner": "getfider",
+            "repo": "fider",
+            "stars": 4464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wakapi",
+          "description": "A minimalist, self-hosted WakaTime-compatible backend for coding statistics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T19:12:33Z",
+            "owner": "muety",
+            "repo": "wakapi",
+            "stars": 4401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kowl",
+          "description": "Apache Kafka Web UI for exploring messages, consumers, configurations and more with a focus on a good UI & UX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:38:59Z",
+            "owner": "redpanda-data",
+            "repo": "console",
+            "stars": 4317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clutch",
+          "description": "An extensible platform for infrastructure management",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2026-02-13T15:21:49Z",
+            "owner": "lyft",
+            "repo": "clutch",
+            "stars": 1772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LastBackend",
+          "description": "Last.Backend container management platform is the new and modern open-source container management system with service discovery, overlay networks and more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-07-19T04:05:45Z",
+            "owner": "lastbackend",
+            "repo": "lastbackend",
+            "stars": 1656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoCommerce",
+          "description": "A headless e-commerce for JAMstack sites",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-07-11T15:11:30Z",
+            "owner": "netlify",
+            "repo": "gocommerce",
+            "stars": 1618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pirsch",
+          "description": "Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T15:31:02Z",
+            "owner": "pirsch-analytics",
+            "repo": "pirsch",
+            "stars": 1027
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Counter",
+          "description": "Shows how many people visit your web application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-29T10:10:56Z",
+            "owner": "ihucos",
+            "repo": "counter.dev",
+            "stars": 1008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tania",
+          "description": "Tania is a free and open source farm management software. You can manage your farm areas, farm reservoirs, farm tasks, inventories, and the crop growing progress",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-03T15:02:58Z",
+            "owner": "usetania",
+            "repo": "tania-core",
+            "stars": 817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Passwall",
+          "description": "PassWall Server is the core backend for open source password manager PassWall platform. Using this server, you can safely store your passwords and access them from anywhere.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-13T12:00:19Z",
+            "owner": "passwall",
+            "repo": "passwall-server",
+            "stars": 765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flamingo Commerce",
+          "description": "Flexible E-Commerce Framework on top of Flamingo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T22:09:38Z",
+            "owner": "i-love-flamingo",
+            "repo": "flamingo-commerce",
+            "stars": 591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Squzy",
+          "description": "Squzy is a high-performance open-source monitoring, incident and alert system written in Golang with Bazel and love.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-21T07:40:27Z",
+            "owner": "squzy",
+            "repo": "squzy",
+            "stars": 478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LogOwl",
+          "description": "Collects logs to monitor and analyse web applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-07T12:04:57Z",
+            "owner": "jz222",
+            "repo": "logowl",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ctrl-v",
+          "description": "a modern, open-source pastebin with latex and markdown rendering support",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-07-09T22:05:15Z",
+            "owner": "jackyzha0",
+            "repo": "ctrl-v",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Accounting",
+          "description": "Open source accounting platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-09-22T17:29:47Z",
+            "owner": "openaccounting",
+            "repo": "oa-server",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gilfoyle",
+          "description": "Cloud-native solution to embed media streaming in any application at any scale",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-07T07:00:14Z",
+            "owner": "dreamvo",
+            "repo": "gilfoyle",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Analytics Box",
+          "description": "analytics tool like google analytics but instead of ripping user's privacy off them like google it respects their privacy and doesn't collect any unnecessary information",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-10T18:14:01Z",
+            "owner": "ketanip",
+            "repo": "analytics-box",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Chat",
+          "description": "Open Source chat with RSS feed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-08T21:44:33Z",
+            "owner": "danielgestwa",
+            "repo": "OpenChat",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "twtxt",
+          "description": "Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no tracking, your content, your data!",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Sourcegraph",
+          "description": "Universal code search (self-hosted)",
+          "children": []
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Matomo",
+          "description": "The leading Free/Libre open analytics platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T04:24:48Z",
+            "owner": "matomo-org",
+            "repo": "matomo",
+            "stars": 21761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wordpress",
+          "description": "Content Management System.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T22:33:57Z",
+            "owner": "WordPress",
+            "repo": "WordPress",
+            "stars": 21331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magento",
+          "description": "E-commerce platform, created using Zend Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T09:25:54Z",
+            "owner": "magento",
+            "repo": "magento2",
+            "stars": 12163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PrestaShop",
+          "description": "Fully scalable open source ecommerce solution",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T11:57:56Z",
+            "owner": "PrestaShop",
+            "repo": "PrestaShop",
+            "stars": 9187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twake",
+          "description": "Twake is a collaborative platform which improves teamwork",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-07-19T14:07:38Z",
+            "owner": "Twake",
+            "repo": "Twake",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sylius",
+          "description": "Open Source eCommerce Platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T02:54:27Z",
+            "owner": "Sylius",
+            "repo": "Sylius",
+            "stars": 8512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shopware",
+          "description": "Shopware 6 is an open source ecommerce platform based on a quite modern technology stack that is powered by Symfony and Vue.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-13T04:13:31Z",
+            "owner": "shopware",
+            "repo": "shopware",
+            "stars": 3404
+          }
+        }
+      ],
+      "title": "Symfony"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cachet",
+          "description": "An open source status page system for everyone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T18:56:39Z",
+            "owner": "cachethq",
+            "repo": "cachet",
+            "stars": 15215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Webhook.site",
+          "description": "Easily test HTTP webhooks with this handy tool that displays requests instantly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-22T10:28:58Z",
+            "owner": "webhooksite",
+            "repo": "webhook.site",
+            "stars": 6700
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreeScout",
+          "description": "FreeScout is the super lightweight free open source help desk and shared inbox written in PHP7 (Laravel 5.5 framework) – self hosted clone of HelpScout",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-07T12:49:48Z",
+            "owner": "freescout-help-desk",
+            "repo": "freescout",
+            "stars": 4471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astral",
+          "description": "An open source application that allows you to organize your GitHub Stars with ease",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-11T16:48:42Z",
+            "owner": "astralapp",
+            "repo": "astral",
+            "stars": 3566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LinkAce",
+          "description": "Your self-hosted bookmark archive. Free and open source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T01:05:41Z",
+            "owner": "Kovah",
+            "repo": "LinkAce",
+            "stars": 3325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Goodwork",
+          "description": "Self hosted project management and collaboration tool inspired by basecamp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-12T22:28:22Z",
+            "owner": "Hasnayeen",
+            "repo": "invobook",
+            "stars": 2237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guild",
+          "description": "Guild.so is an open-source self-hosted team management solution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-03-17T16:30:03Z",
+            "owner": "guildso",
+            "repo": "guild",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Laravel"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Elixir"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Plausible",
+          "description": "A simple and privacy friendly web analytics, alternative to Google Analytics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-12T16:28:17Z",
+            "owner": "plausible",
+            "repo": "analytics",
+            "stars": 28480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Teslamate",
+          "description": "A self-hosted data logger for your Tesla",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-13T02:20:36Z",
+            "owner": "teslamate-org",
+            "repo": "teslamate",
+            "stars": 8833
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Supabase Realtime",
+          "description": "Listens to changes in a PostgreSQL Database and broadcasts them over websockets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-13T04:14:20Z",
+            "owner": "supabase",
+            "repo": "realtime",
+            "stars": 7616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Papercups",
+          "description": "Open source live customer chat web app written in Elixir",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2024-02-15T05:21:47Z",
+            "owner": "papercups-io",
+            "repo": "papercups",
+            "stars": 6100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keila",
+          "description": "Open Source Newsletter Tool, alternative to newsletter tools like Mailchimp or Sendinblue",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-01T10:01:52Z",
+            "owner": "pentacent",
+            "repo": "keila",
+            "stars": 2183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Accent",
+          "description": "Open-source, self-hosted, developer-oriented translation tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-06-19T16:46:38Z",
+            "owner": "mirego",
+            "repo": "accent",
+            "stars": 1493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crawly",
+          "description": "Crawly, a high-level web crawling & scraping framework for Elixir.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2025-07-16T13:44:19Z",
+            "owner": "elixir-crawly",
+            "repo": "crawly",
+            "stars": 1113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Logflare",
+          "description": "Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-13T00:06:12Z",
+            "owner": "Logflare",
+            "repo": "logflare",
+            "stars": 1003
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Godello",
+          "description": "Trello inspired kanban board made with the Godot Engine and GDScript, powered by an online real-time collaborative backend (Elixir and Phoenix Channels)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GDScript",
+            "last_commit": "2023-09-16T06:18:55Z",
+            "owner": "alfredbaudisch",
+            "repo": "Godello",
+            "stars": 881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Constable",
+          "description": "Better company announcements",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Elixir",
+            "last_commit": "2021-10-08T12:18:33Z",
+            "owner": "thoughtbot",
+            "repo": "constable",
+            "stars": 513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tilex",
+          "description": "Today I Learned",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2025-11-07T20:33:31Z",
+            "owner": "hashrocket",
+            "repo": "tilex",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reticulum",
+          "description": "A hybrid game networking and web API server, focused on Social Mixed Reality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-07-20T09:11:34Z",
+            "owner": "Hubs-Foundation",
+            "repo": "reticulum",
+            "stars": 460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Niex",
+          "description": "Niex is an interactive Elixir code notebook with support for embedded media and charting, built with Phoenix LiveView",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2021-02-06T07:56:41Z",
+            "owner": "jonklein",
+            "repo": "niex",
+            "stars": 415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bytepack.io",
+          "description": "Helps you package and deliver software products to developers and enterprises",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Elixir",
+            "last_commit": "2020-12-03T17:21:50Z",
+            "owner": "dashbitco",
+            "repo": "bytepack_archive",
+            "stars": 335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Loopa News",
+          "description": "Realtime social news app developed from scratch with Elixir, Phoenix, Vue and Vuex",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-30T06:58:03Z",
+            "owner": "Angarsk8",
+            "repo": "Loopa-News",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextDB",
+          "description": "The whole shaboodle for textdb, a simple data sharing service",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2023-01-06T12:25:19Z",
+            "owner": "bontaq",
+            "repo": "textdb",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ElixirStatus",
+          "description": "Community site for Elixir project/blog post/version updates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2020-09-03T23:39:23Z",
+            "owner": "rrrene",
+            "repo": "elixirstatus-web",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moba",
+          "description": "A turn-based browser RPG built with Phoenix LiveView",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-05-09T08:54:53Z",
+            "owner": "pedromtavares",
+            "repo": "moba",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crimson Commerce",
+          "description": "An open-source Ecommerce platform in Elixir and Phoenix",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2023-01-25T06:04:50Z",
+            "owner": "amacgregor",
+            "repo": "crimson_commerce",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Habits",
+          "description": "An Elixir/Phoenix app for tracking daily habits, ready to deploy to Heroku.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2024-08-28T08:56:59Z",
+            "owner": "stevegrossi",
+            "repo": "habits",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sengoku",
+          "description": "An online Risk-like game built with Elixir and Phoenix LiveView",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2023-01-06T06:44:38Z",
+            "owner": "stevegrossi",
+            "repo": "sengoku",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leather",
+          "description": "A super fast money management app.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Elixir",
+            "last_commit": "2018-02-05T22:53:21Z",
+            "owner": "nicksergeant",
+            "repo": "leather",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Breethe",
+          "description": "Air Quality Data for Locations around the World",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Elixir",
+            "last_commit": "2023-12-15T20:23:53Z",
+            "owner": "mainmatter",
+            "repo": "breethe-server",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Devito",
+          "description": "An open-source url shortener written in Elixir and Phoenix, with no need for a separate database",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2023-01-06T12:19:08Z",
+            "owner": "supersimple",
+            "repo": "devito",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KarmaWerks",
+          "description": "A project management tool created with Elixir, Phoenix and Dgraph",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2023-01-06T02:10:46Z",
+            "owner": "code-shoily",
+            "repo": "karma_werks",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Embers",
+          "description": "A microblogging platform alternative to mainstream social networks",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Elixir",
+            "last_commit": "2021-06-27T22:41:12Z",
+            "owner": "EmbersPlatform",
+            "repo": "embers",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slacktapped",
+          "description": "Slacktapped is an Elixir app to post Untappd activity to Slack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2021-04-02T02:12:05Z",
+            "owner": "nicksergeant",
+            "repo": "slacktapped",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brando",
+          "description": "A CMS of sorts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-12T14:15:46Z",
+            "owner": "brandocms",
+            "repo": "brando",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Butler",
+          "description": "A privacy-focused, and simple planner for your to-dos",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2021-06-08T19:07:38Z",
+            "owner": "sekunho",
+            "repo": "butler",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cozy Move",
+          "description": "Wizard for moving a Cozy from one place to another",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-12T17:31:30Z",
+            "owner": "cozy",
+            "repo": "cozy-move",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vutuv",
+          "description": "vutuv is a business network. Think of it as a fast, secure and less annoying open-source alternative for LinkedIn or XING.",
+          "children": []
+        }
+      ],
+      "title": "Phoenix"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Airbyte",
+          "description": "Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:05:18Z",
+            "owner": "airbytehq",
+            "repo": "airbyte",
+            "stars": 21883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BigBlueButton",
+          "description": "Complete open source web conferencing system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T22:24:59Z",
+            "owner": "bigbluebutton",
+            "repo": "bigbluebutton",
+            "stars": 9186
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Crystal"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:25:03.058Z",
+    "original_repository": "sdil/open-production-web-projects",
+    "original_repository_sha": "f0f1e02ad39b2246e0921c1538c2e46ad7b2d486",
+    "enhanced_repository": "enhansome/enhansome-open-production-web-projects",
+    "enhanced_repository_description": null,
+    "title": "Awesome Open Production-ready Web Projects with stars"
+  }
+}
