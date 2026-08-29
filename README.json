@@ -12,12 +12,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Developer-first error tracking and performance monitoring",
+                "homepage": "https://sentry.io",
                 "id": 873328,
                 "language": "Python",
-                "last_commit": "2026-08-28T23:58:39Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T02:35:09Z",
+                "open_issues": 2243,
                 "owner": "getsentry",
                 "repo": "sentry",
-                "stars": 44641
+                "stars": 44644,
+                "topics": [
+                  "apm",
+                  "crash-reporting",
+                  "crash-reports",
+                  "csp-report",
+                  "devops",
+                  "django",
+                  "error-logging",
+                  "error-monitoring",
+                  "fair-source",
+                  "hacktoberfest",
+                  "monitor",
+                  "monitoring",
+                  "python",
+                  "sentry",
+                  "tag-production"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -28,12 +49,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+                "homepage": "https://posthog.com",
                 "id": 235901813,
                 "language": "Python",
-                "last_commit": "2026-08-28T23:58:10Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:32:34Z",
+                "open_issues": 5144,
                 "owner": "PostHog",
                 "repo": "posthog",
-                "stars": 39422
+                "stars": 39437,
+                "topics": [
+                  "ab-testing",
+                  "ai-analytics",
+                  "analytics",
+                  "cdp",
+                  "data-warehouse",
+                  "experiments",
+                  "feature-flags",
+                  "javascript",
+                  "product-analytics",
+                  "python",
+                  "react",
+                  "session-replay",
+                  "surveys",
+                  "typescript",
+                  "web-analytics"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -44,12 +86,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+                "homepage": "https://zulip.com",
                 "id": 43160685,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T03:24:40Z",
+                "open_issues": 2049,
                 "owner": "zulip",
                 "repo": "zulip",
-                "stars": 25785
+                "stars": 25786,
+                "topics": [
+                  "apache",
+                  "chat",
+                  "collaboration",
+                  "electron",
+                  "foss",
+                  "free",
+                  "javascript",
+                  "python",
+                  "python3",
+                  "react-native",
+                  "slack",
+                  "zulip"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -60,12 +120,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Saleor Core: the high performance, composable, headless commerce API.",
+                "homepage": "https://saleor.io",
                 "id": 8162715,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T10:59:13Z",
+                "open_issues": 245,
                 "owner": "saleor",
                 "repo": "saleor",
-                "stars": 23274
+                "stars": 23274,
+                "topics": [
+                  "cart",
+                  "checkout",
+                  "commerce",
+                  "composable",
+                  "e-commerce",
+                  "ecommerce",
+                  "graphql",
+                  "headless",
+                  "headless-commerce",
+                  "multichannel",
+                  "oms",
+                  "order-management",
+                  "payments",
+                  "pim",
+                  "python",
+                  "shop",
+                  "shopping-cart",
+                  "store"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -76,12 +160,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source annotation tool for machine learning practitioners.",
+                "homepage": null,
                 "id": 132709824,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-14T21:16:25Z",
+                "open_issues": 398,
                 "owner": "doccano",
                 "repo": "doccano",
-                "stars": 10760
+                "stars": 10760,
+                "topics": [
+                  "annotation-tool",
+                  "data-labeling",
+                  "dataset",
+                  "datasets",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "nuxt",
+                  "nuxtjs",
+                  "python",
+                  "text-annotation",
+                  "vue",
+                  "vuejs"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -92,12 +194,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.",
+                "homepage": "https://www.flagsmith.com",
                 "id": 136163130,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T22:05:42Z",
+                "open_issues": 700,
                 "owner": "Flagsmith",
                 "repo": "flagsmith",
-                "stars": 6532
+                "stars": 6532,
+                "topics": [
+                  "cd",
+                  "ci",
+                  "continuous-integration",
+                  "docker",
+                  "feature-flag",
+                  "feature-flaggers",
+                  "feature-flagging",
+                  "feature-flags",
+                  "feature-management",
+                  "feature-toggles",
+                  "flagsmith",
+                  "hacktoberfest",
+                  "multivariate-testing",
+                  "python",
+                  "react",
+                  "remote-config",
+                  "remote-control",
+                  "self-hosted"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -108,12 +234,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty",
+                "homepage": null,
                 "id": 15680717,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-09-10T09:23:26Z",
+                "open_issues": 166,
                 "owner": "arachnys",
                 "repo": "cabot",
-                "stars": 5675
+                "stars": 5675,
+                "topics": [
+                  "alerting",
+                  "devops",
+                  "django",
+                  "graphite",
+                  "monitoring",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -124,12 +262,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.",
+                "homepage": null,
                 "id": 254441446,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-15T23:00:29Z",
+                "open_issues": 63,
                 "owner": "milesmcc",
                 "repo": "shynet",
-                "stars": 3150
+                "stars": 3150,
+                "topics": [
+                  "a17t",
+                  "analytics",
+                  "django",
+                  "docker",
+                  "kubernetes",
+                  "monitoring",
+                  "noscript",
+                  "privacy",
+                  "python",
+                  "security",
+                  "self-hosted",
+                  "web-analytics"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -140,12 +296,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate links that users can use to submit messages encrypted with your public key.",
+                "homepage": "https://hawkpost.co",
                 "id": 55302159,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-09T04:45:37Z",
+                "open_issues": 9,
                 "owner": "whitesmith",
                 "repo": "hawkpost",
-                "stars": 952
+                "stars": 952,
+                "topics": [
+                  "django",
+                  "email",
+                  "gpg-encryption",
+                  "hacktoberfest",
+                  "openpgp",
+                  "openpgpjs",
+                  "python",
+                  "python3",
+                  "security",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -156,12 +328,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🕶 addons.mozilla.org Django app and API 🎉",
+                "homepage": "https://addons.mozilla.org/",
                 "id": 16416867,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T11:05:36Z",
+                "open_issues": 36,
                 "owner": "mozilla",
                 "repo": "addons-server",
-                "stars": 902
+                "stars": 902,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -172,12 +349,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 357894794,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-04T11:59:13Z",
+                "open_issues": 94,
                 "owner": "taigaio",
                 "repo": "taiga-back",
-                "stars": 848
+                "stars": 848,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -188,12 +370,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Question Answering annotation platform - Plateforme d'annotation",
+                "homepage": "https://piaf.etalab.studio",
                 "id": 200671676,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-21T13:17:24Z",
+                "open_issues": 9,
                 "owner": "etalab",
                 "repo": "piaf",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "ai",
+                  "annotation",
+                  "annotation-tool",
+                  "natural-language-processing",
+                  "piaf",
+                  "question-answering",
+                  "text-annotation"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -204,12 +399,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "REST API for thenewboston.com.",
+                "homepage": "https://thenewboston.com/",
                 "id": 300472550,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-01-17T18:45:37Z",
+                "open_issues": 1,
                 "owner": "thenewboston-blockchain",
                 "repo": "Website-API",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -220,12 +420,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Services web app for SHIP, Student Homelessness Initiative Partnership of Frederick County",
+                "homepage": null,
                 "id": 272863028,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-04-22T04:22:25Z",
+                "open_issues": 0,
                 "owner": "TechFrederick",
                 "repo": "ship",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -236,12 +441,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The 2U fork of Open edX LMS & Studio, powering education sites around the world!",
+                "homepage": "https://openedx.org",
                 "id": 1067223294,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T14:39:43Z",
+                "open_issues": 48,
                 "owner": "edx",
                 "repo": "edx-platform",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -252,12 +462,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Lifesaving Rankings tracks results for lifesaving pool competitions",
+                "homepage": "https://www.lifesavingrankings.com/",
                 "id": 117429289,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-07T04:27:11Z",
+                "open_issues": 13,
                 "owner": "rubenvanerk",
                 "repo": "lifesavingrankings",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "lifesaving",
+                  "rankings"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             }
@@ -275,12 +493,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Confidant: your secret keeper. https://lyft.github.io/confidant",
+                "homepage": null,
                 "id": 42324225,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-14T23:34:34Z",
+                "open_issues": 49,
                 "owner": "lyft",
                 "repo": "confidant",
-                "stars": 1856
+                "stars": 1856,
+                "topics": [
+                  "lyft"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -291,12 +516,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One slackbot to rule them all",
+                "homepage": null,
                 "id": 223036212,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-03T17:46:47Z",
+                "open_issues": 17,
                 "owner": "lyft",
                 "repo": "omnibot",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "lyft"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             }
@@ -320,12 +552,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Your self-hosted, globally interconnected microblogging community",
+                "homepage": "https://joinmastodon.org",
                 "id": 52281283,
                 "language": "Ruby",
-                "last_commit": "2026-08-28T22:17:53Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T04:29:02Z",
+                "open_issues": 4509,
                 "owner": "mastodon",
                 "repo": "mastodon",
-                "stars": 50257
+                "stars": 50255,
+                "topics": [
+                  "activity-stream",
+                  "activitypub",
+                  "docker",
+                  "fediverse",
+                  "mastodon",
+                  "microblog",
+                  "social-network",
+                  "social-web",
+                  "webfinger"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -336,12 +583,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A platform for community discussion. Free, open, simple.",
+                "homepage": "https://www.discourse.org",
                 "id": 7569578,
                 "language": "Ruby",
-                "last_commit": "2026-08-28T23:25:00Z",
+                "license": "GPL-2.0",
+                "last_commit": "2026-08-29T03:20:04Z",
+                "open_issues": 281,
                 "owner": "discourse",
                 "repo": "discourse",
-                "stars": 47750
+                "stars": 47750,
+                "topics": [
+                  "discourse",
+                  "ember",
+                  "forum",
+                  "javascript",
+                  "postgresql",
+                  "rails",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -352,12 +612,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "For empowering community 🌱",
+                "homepage": "https://forem.com",
                 "id": 73648678,
                 "language": "Ruby",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T20:34:52Z",
+                "open_issues": 127,
                 "owner": "forem",
                 "repo": "forem",
-                "stars": 22774
+                "stars": 22774,
+                "topics": [
+                  "community",
+                  "discussion",
+                  "feedback",
+                  "hacktoberfest",
+                  "open-source",
+                  "rails",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -368,12 +641,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, and production-ready Next.js storefront. Self-host it. Own your stack. No vendor lock-in. Zero platform fees.",
+                "homepage": "https://spreecommerce.org",
                 "id": 3314,
                 "language": "Ruby",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T22:18:44Z",
+                "open_issues": 134,
                 "owner": "spree",
                 "repo": "spree",
-                "stars": 15651
+                "stars": 15652,
+                "topics": [
+                  "b2b-commerce",
+                  "e-commerce",
+                  "ecommerce",
+                  "ecommerce-api",
+                  "ecommerce-framework",
+                  "ecommerce-platform",
+                  "headless",
+                  "headless-commerce",
+                  "headless-ecommerce",
+                  "marketplace",
+                  "multi-tenant",
+                  "multi-vendor",
+                  "multi-vendor-ecommerce",
+                  "open-source",
+                  "spree-commerce"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -384,12 +678,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zammad is a web based open source helpdesk/customer support system.",
+                "homepage": "https://zammad.org",
                 "id": 3898922,
                 "language": "Ruby",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T13:33:49Z",
+                "open_issues": 452,
                 "owner": "zammad",
                 "repo": "zammad",
-                "stars": 5872
+                "stars": 5872,
+                "topics": [
+                  "coffeescript",
+                  "customer-care",
+                  "customer-support",
+                  "graphql",
+                  "helpdesk",
+                  "javascript",
+                  "rails",
+                  "ruby",
+                  "support",
+                  "ticketing",
+                  "typescript",
+                  "vite",
+                  "vuejs",
+                  "zammad"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -400,12 +714,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-hosted photovoltaic dashboard for monitoring solar production, consumption, battery usage, grid exchange, and financial performance.",
+                "homepage": "https://solectrus.de",
                 "id": 322912392,
                 "language": "Ruby",
-                "last_commit": "2026-08-28T13:14:53Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T01:38:03Z",
+                "open_issues": 51,
                 "owner": "solectrus",
                 "repo": "solectrus",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "homelab",
+                  "influxdb",
+                  "monitoring",
+                  "photovoltaic",
+                  "photovoltaics",
+                  "photovoltaics-dashboard",
+                  "self-hosted"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             }
@@ -427,12 +754,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Secure CommsOS™ for mission-critical operations",
+            "homepage": "https://rocket.chat/",
             "id": 35866694,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T23:22:31Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:37:29Z",
+            "open_issues": 4004,
             "owner": "RocketChat",
             "repo": "Rocket.Chat",
-            "stars": 46041
+            "stars": 46042,
+            "topics": [
+              "chat",
+              "collaboration",
+              "foss",
+              "free",
+              "hacktoberfest",
+              "javascript",
+              "meteor",
+              "mit",
+              "real-time",
+              "slack",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -443,12 +787,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project has been discontinued ////// Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes. ",
+            "homepage": "https://mailchimp.com/developer/open-commerce/",
             "id": 12926963,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-01T22:35:00Z",
+            "open_issues": 96,
             "owner": "reactioncommerce",
             "repo": "reaction",
-            "stars": 12400
+            "stars": 12400,
+            "topics": [
+              "cart",
+              "commerce",
+              "docker",
+              "e-commerce",
+              "ecommerce",
+              "ecommerce-platform",
+              "graphql",
+              "hacktoberfest",
+              "headless",
+              "javascript",
+              "marketplace",
+              "mongodb",
+              "reaction-action",
+              "reactioncommerce",
+              "shop",
+              "storefront"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -459,12 +825,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple, powerful online communities.",
+            "homepage": "https://spectrum.chat",
             "id": 62260083,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-07-20T03:30:21Z",
+            "open_issues": 288,
             "owner": "withspectrum",
             "repo": "spectrum",
-            "stars": 10833
+            "stars": 10833,
+            "topics": [
+              "expo",
+              "flowtype",
+              "graphql",
+              "nodejs",
+              "react",
+              "reactjs",
+              "rethinkdb",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -475,12 +855,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Marvelous Open Source Status Page System",
+            "homepage": "https://marquez.co/statusfy",
             "id": 142598531,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-12T17:42:10Z",
+            "open_issues": 35,
             "owner": "juliomrqz",
             "repo": "statusfy",
-            "stars": 2627
+            "stars": 2627,
+            "topics": [
+              "marquez",
+              "nuxt",
+              "statusfy",
+              "statuspage",
+              "vue",
+              "web-application"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -491,12 +883,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free online agile retrospective meeting tool",
+            "homepage": "https://www.parabol.co/",
             "id": 48384473,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T23:47:15Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:20:03Z",
+            "open_issues": 83,
             "owner": "ParabolInc",
             "repo": "parabol",
-            "stars": 2009
+            "stars": 2009,
+            "topics": [
+              "agile",
+              "graphql",
+              "kanban",
+              "nodejs",
+              "react",
+              "realtime",
+              "redis",
+              "retrospective",
+              "saas",
+              "stripe"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -507,12 +915,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 322423205,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-09-01T10:12:54Z",
+            "open_issues": 2,
             "owner": "uduakabaci",
             "repo": "Paisley",
-            "stars": 104
+            "stars": 104,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -525,12 +938,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+                "homepage": "https://js.wiki",
                 "id": 65848095,
                 "language": "Vue",
-                "last_commit": "2026-08-28T23:31:19Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T02:15:09Z",
+                "open_issues": 189,
                 "owner": "requarks",
                 "repo": "wiki",
-                "stars": 28814
+                "stars": 28816,
+                "topics": [
+                  "cross-platform",
+                  "documentation",
+                  "git",
+                  "markdown",
+                  "nodejs",
+                  "open-source",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -541,12 +967,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-hosted, Node.js based analytics tool for those who care about privacy.",
+                "homepage": "https://ackee.electerious.com",
                 "id": 18831920,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-16T10:30:14Z",
+                "open_issues": 47,
                 "owner": "electerious",
                 "repo": "Ackee",
-                "stars": 4691
+                "stars": 4691,
+                "topics": [
+                  "analytics",
+                  "google-analytics",
+                  "privacy",
+                  "website-analytics"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             }
@@ -564,12 +1000,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source reporting platform to build and share live dashboards from APIs, SQL and NoSQL databases, with powerful AI assistant, scheduling, and embeddable charts 📈📊",
+                "homepage": "https://chartbrew.com",
                 "id": 205167638,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T07:35:45Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:15:26Z",
+                "open_issues": 4,
                 "owner": "chartbrew",
                 "repo": "chartbrew",
-                "stars": 4050
+                "stars": 4050,
+                "topics": [
+                  "analytics",
+                  "api",
+                  "chartjs",
+                  "charts",
+                  "dashboard",
+                  "data-visualization",
+                  "firebase",
+                  "firebase-firestore",
+                  "firestore",
+                  "mongo",
+                  "mongodb",
+                  "mysql",
+                  "nodejs",
+                  "postgresql",
+                  "react",
+                  "reactjs",
+                  "realtime-database",
+                  "redux"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -580,12 +1040,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A privacy-first, open-source home assistant",
+                "homepage": "https://gladysassistant.com",
                 "id": 36928490,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T18:06:33Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:29:25Z",
+                "open_issues": 51,
                 "owner": "GladysAssistant",
                 "repo": "Gladys",
-                "stars": 3164
+                "stars": 3164,
+                "topics": [
+                  "assistant",
+                  "automation",
+                  "gladys",
+                  "home",
+                  "home-automation",
+                  "iot",
+                  "nodejs",
+                  "raspberry-pi",
+                  "smarthome"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -596,12 +1071,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MEVN Full Stack E-Commerce Solution. Built using MEVN Stack (Node.js, Express.js, Vue.js, MongoDB) with Developer Friendliness and Cloud Integrations in mind. Previously Powered the Veniqa New York Startup. 100% Customizable. For Demos and Documentation, Visit Official Website",
+                "homepage": "https://www.veniqa.com",
                 "id": 195558780,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-02T11:38:54Z",
+                "open_issues": 74,
                 "owner": "Viveckh",
                 "repo": "Veniqa",
-                "stars": 1189
+                "stars": 1189,
+                "topics": [
+                  "boilerplate-application",
+                  "e-commerce",
+                  "e-commerce-api",
+                  "e-commerce-platform",
+                  "ecommerce-application",
+                  "ecommerce-framework",
+                  "ecommerce-platform",
+                  "ecommerce-shopping-solution",
+                  "ecommerce-store",
+                  "ecommerce-storefront",
+                  "international-trade",
+                  "inventory-management",
+                  "mevn",
+                  "mevn-stack",
+                  "shopping-site",
+                  "startup-applications",
+                  "startup-code",
+                  "startup-resources",
+                  "startup-template",
+                  "startups"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             }
@@ -619,12 +1120,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ever® Traduora™ - Open Translation Management Platform - https://traduora.co",
+                "homepage": "https://traduora.co",
                 "id": 173899470,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-05T12:36:23Z",
+                "open_issues": 99,
                 "owner": "ever-co",
                 "repo": "ever-traduora",
-                "stars": 2121
+                "stars": 2121,
+                "topics": [
+                  "angular",
+                  "api",
+                  "i18n",
+                  "internationalization",
+                  "localization",
+                  "nodejs",
+                  "opensource",
+                  "self-hosted",
+                  "teams",
+                  "translation",
+                  "translation-management",
+                  "typescript",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             }
@@ -642,12 +1162,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scheduling infrastructure for absolutely everyone.",
+                "homepage": "https://cal.diy",
                 "id": 350360184,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-08T17:13:42Z",
+                "open_issues": 1430,
                 "owner": "calcom",
                 "repo": "cal.diy",
-                "stars": 47983
+                "stars": 47992,
+                "topics": [
+                  "next-auth",
+                  "nextjs",
+                  "open-source",
+                  "postgresql",
+                  "prisma",
+                  "t3-stack",
+                  "tailwindcss",
+                  "trpc",
+                  "turborepo",
+                  "typescript",
+                  "zod"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -658,12 +1195,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.",
+                "homepage": "https://umami.is",
                 "id": 280363952,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T07:17:29Z",
+                "open_issues": 114,
                 "owner": "umami-software",
                 "repo": "umami",
-                "stars": 38424
+                "stars": 38425,
+                "topics": [
+                  "analytics",
+                  "audience-segmentation",
+                  "charts",
+                  "cohort-analysis",
+                  "google-analytics",
+                  "product-analytics",
+                  "statistics",
+                  "user-journey",
+                  "web-analytics"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -674,12 +1226,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "lightweight, privacy-friendly alternative to Disqus.",
+                "homepage": "https://cusdis.com",
                 "id": 358607805,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-17T11:28:03Z",
+                "open_issues": 126,
                 "owner": "djyde",
                 "repo": "cusdis",
-                "stars": 2782
+                "stars": 2782,
+                "topics": [
+                  "comment-system",
+                  "disqus"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             }
@@ -697,12 +1257,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Monorepo that holds all of HospitalRun's v2 projects.",
+                "homepage": "https://hospitalrun.io",
                 "id": 200928051,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-02-05T10:48:56Z",
+                "open_issues": 34,
                 "owner": "HospitalRun",
                 "repo": "hospitalrun",
-                "stars": 989
+                "stars": 989,
+                "topics": [
+                  "ehr",
+                  "global-health",
+                  "hospitalrun",
+                  "medical",
+                  "medical-informatics",
+                  "medical-informatics-platform",
+                  "monorepo",
+                  "offline-first"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             }
@@ -720,12 +1294,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+                "homepage": "https://contribute.freecodecamp.org",
                 "id": 28457823,
                 "language": "TypeScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T19:26:48Z",
+                "open_issues": 235,
                 "owner": "freeCodeCamp",
                 "repo": "freeCodeCamp",
-                "stars": 454749
+                "stars": 454757,
+                "topics": [
+                  "careers",
+                  "certification",
+                  "community",
+                  "curriculum",
+                  "d3",
+                  "education",
+                  "freecodecamp",
+                  "javascript",
+                  "learn-to-code",
+                  "math",
+                  "nodejs",
+                  "nonprofits",
+                  "programming",
+                  "react",
+                  "teachers"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             }
@@ -743,12 +1338,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+                "homepage": "https://joplinapp.org",
                 "id": 79162682,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T21:56:20Z",
+                "open_issues": 621,
                 "owner": "laurent22",
                 "repo": "joplin",
-                "stars": 56143
+                "stars": 56144,
+                "topics": [
+                  "android",
+                  "dropbox",
+                  "electron",
+                  "enex-files",
+                  "evernote",
+                  "javascript",
+                  "joplin",
+                  "nextcloud",
+                  "nodejs",
+                  "note-taking",
+                  "notesnook",
+                  "obsidian",
+                  "onedrive",
+                  "react-native",
+                  "standardnotes",
+                  "synchronisation",
+                  "web-clipper",
+                  "webdav"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -759,12 +1378,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Instantly search across your entire Twitter history with a beautiful UI powered by Algolia.",
+                "homepage": "https://twitter-search.transitivebullsh.it",
                 "id": 254776903,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-04T11:31:51Z",
+                "open_issues": 7,
                 "owner": "transitive-bullshit",
                 "repo": "twitter-search",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "algolia",
+                  "algolia-instantsearch",
+                  "algolia-search",
+                  "search",
+                  "twitter",
+                  "twitter-search"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             }
@@ -782,12 +1413,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The repository for Nyxo React Native app, a personal sleep tracker and sleep coach",
+                "homepage": "https://nyxo.app",
                 "id": 289249276,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-15T06:47:16Z",
+                "open_issues": 18,
                 "owner": "hello-nyxo",
                 "repo": "nyxo-app",
-                "stars": 301
+                "stars": 301,
+                "topics": [
+                  "aws-amplify",
+                  "hacktoberfest",
+                  "react",
+                  "react-native",
+                  "redux",
+                  "sleep",
+                  "sleep-coaching",
+                  "sleep-tracker"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             }
@@ -809,12 +1454,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+            "homepage": "https://mattermost.com",
             "id": 37448451,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T23:59:03Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:05:43Z",
+            "open_issues": 997,
             "owner": "mattermost",
             "repo": "mattermost",
-            "stars": 38934
+            "stars": 38936,
+            "topics": [
+              "collaboration",
+              "golang",
+              "hacktoberfest",
+              "mattermost",
+              "monorepo",
+              "react",
+              "react-native"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -825,12 +1483,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.",
+            "homepage": "https://www.harness.io/open-source",
             "id": 16607898,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T23:12:09Z",
+            "open_issues": 103,
             "owner": "harness",
             "repo": "harness",
-            "stars": 38154
+            "stars": 38157,
+            "topics": [
+              "build-automation",
+              "build-pipelines",
+              "ci",
+              "ci-cd",
+              "code-repository",
+              "continuous-delivery",
+              "continuous-integration",
+              "docker",
+              "git",
+              "go",
+              "hacktoberfest",
+              "scm"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -841,12 +1517,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+            "homepage": "https://listmonk.app",
             "id": 193833307,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-25T16:40:09Z",
+            "open_issues": 113,
             "owner": "knadh",
             "repo": "listmonk",
-            "stars": 23160
+            "stars": 23163,
+            "topics": [
+              "campaign",
+              "campaign-management",
+              "email-marketing",
+              "email-subscription",
+              "listmonk",
+              "mailing-list",
+              "newsletter",
+              "newsletter-management",
+              "newsletter-software",
+              "self-hosted",
+              "sms-gateway",
+              "smtp",
+              "transactional-emails"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -857,12 +1552,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web and API based SMTP testing",
+            "homepage": null,
             "id": 18858585,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-02-13T18:38:41Z",
+            "open_issues": 255,
             "owner": "mailhog",
             "repo": "MailHog",
-            "stars": 16138
+            "stars": 16139,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -873,12 +1573,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.",
+            "homepage": "https://openreplay.com",
             "id": 362806180,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T09:34:32Z",
+            "open_issues": 176,
             "owner": "openreplay",
             "repo": "openreplay",
-            "stars": 12598
+            "stars": 12599,
+            "topics": [
+              "analytics",
+              "angular",
+              "devtools",
+              "feature-flags",
+              "ios",
+              "javascript",
+              "nextjs",
+              "product-analytics",
+              "react",
+              "react-native",
+              "real-user-monitoring",
+              "session-replay",
+              "svelte",
+              "typescript",
+              "vue",
+              "web-vitals"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -889,12 +1611,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "screen sharing for developers https://screego.net/",
+            "homepage": "https://app.screego.net",
             "id": 280232135,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-20T18:37:47Z",
+            "open_issues": 16,
             "owner": "screego",
             "repo": "server",
-            "stars": 10511
+            "stars": 10512,
+            "topics": [
+              "docker",
+              "go",
+              "privacy",
+              "screensharing-tool",
+              "selfhosted",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -905,12 +1639,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network",
+            "homepage": "https://berty.tech",
             "id": 141089889,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T07:28:57Z",
+            "open_issues": 87,
             "owner": "berty",
             "repo": "berty",
-            "stars": 9278
+            "stars": 9278,
+            "topics": [
+              "android",
+              "berty",
+              "censorship",
+              "crdt",
+              "cybersecurity",
+              "encryption",
+              "gomobile",
+              "ios",
+              "ipfs",
+              "libp2p",
+              "messaging",
+              "mobile-app",
+              "monorepo",
+              "offline-first",
+              "orbitdb",
+              "p2p",
+              "privacy",
+              "react-native",
+              "surveillance"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -921,12 +1680,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Feature Flags, Experimentation, and Product Analytics",
+            "homepage": "https://www.growthbook.io",
             "id": 365373172,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T23:05:33Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T01:22:26Z",
+            "open_issues": 897,
             "owner": "growthbook",
             "repo": "growthbook",
-            "stars": 8168
+            "stars": 8168,
+            "topics": [
+              "ab-testing",
+              "abtest",
+              "abtesting",
+              "analytics",
+              "bigquery",
+              "clickhouse",
+              "continuous-delivery",
+              "data-analysis",
+              "data-engineering",
+              "data-science",
+              "databricks",
+              "experimentation",
+              "feature-flagging",
+              "feature-flags",
+              "redshift",
+              "remote-config",
+              "snowflake",
+              "split-testing",
+              "statistics",
+              "warehouse-native"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -937,12 +1722,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.",
+            "homepage": "https://usefathom.com/",
             "id": 74236755,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-03-18T09:11:04Z",
+            "open_issues": 5,
             "owner": "usefathom",
             "repo": "fathom",
-            "stars": 8013
+            "stars": 8013,
+            "topics": [
+              "analytics",
+              "fathom",
+              "fathom-analytics",
+              "fathom-dashboard",
+              "google-analytics",
+              "metrics",
+              "privacy",
+              "website-analytics"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -953,12 +1752,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.",
+            "homepage": "https://demo.statping.com",
             "id": 136770331,
             "language": "Vue",
+            "license": "GPL-3.0",
             "last_commit": "2024-07-05T05:43:00Z",
+            "open_issues": 48,
             "owner": "statping",
             "repo": "statping",
-            "stars": 7291
+            "stars": 7291,
+            "topics": [
+              "application-monitoring",
+              "docker",
+              "golang-plugin",
+              "monitoring",
+              "notifier",
+              "prometheus",
+              "prometheus-exporter",
+              "server-monitor",
+              "statping",
+              "status-page",
+              "statuspage",
+              "uptime",
+              "website-monitor"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -969,12 +1787,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy web analytics. No tracking of personal data.",
+            "homepage": "https://www.goatcounter.com",
             "id": 188968112,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T12:57:56Z",
+            "open_issues": 48,
             "owner": "arp242",
             "repo": "goatcounter",
-            "stars": 5919
+            "stars": 5920,
+            "topics": [
+              "analytics",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -985,12 +1812,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enterprise-ready, Git native feature management solution",
+            "homepage": "https://flipt.io",
             "id": 72894587,
             "language": "Go",
-            "last_commit": "2026-08-28T20:12:24Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:51:49Z",
+            "open_issues": 41,
             "owner": "flipt-io",
             "repo": "flipt",
-            "stars": 4884
+            "stars": 4884,
+            "topics": [
+              "cloudnative",
+              "continuous-delivery",
+              "devops",
+              "devtools",
+              "feature-flags",
+              "feature-toggles",
+              "gitops",
+              "go",
+              "golang",
+              "grpc",
+              "grpc-gateway",
+              "hacktoberfest",
+              "observability",
+              "opentelemetry",
+              "react",
+              "redux",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1001,12 +1851,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open platform to collect and prioritize feedback",
+            "homepage": "https://fider.io",
             "id": 79280946,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-09T11:06:12Z",
+            "open_issues": 53,
             "owner": "getfider",
             "repo": "fider",
-            "stars": 4483
+            "stars": 4483,
+            "topics": [
+              "customer",
+              "feature-request",
+              "feedback",
+              "ideas",
+              "suggestions"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1017,12 +1878,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics",
+            "homepage": "https://wakapi.dev",
             "id": 187916430,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T21:50:47Z",
+            "open_issues": 38,
             "owner": "muety",
             "repo": "wakapi",
-            "stars": 4412
+            "stars": 4412,
+            "topics": [
+              "coding-statistics",
+              "developer-tools",
+              "productivity",
+              "self-hosted",
+              "time-tracker",
+              "wakatime",
+              "wakatime-api"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1033,12 +1907,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.",
+            "homepage": "https://redpanda.com",
             "id": 211644266,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-28T22:55:59Z",
+            "open_issues": 156,
             "owner": "redpanda-data",
             "repo": "console",
-            "stars": 4325
+            "stars": 4325,
+            "topics": [
+              "apache-kafka",
+              "dataops",
+              "go",
+              "kafka",
+              "kafka-gui",
+              "kafka-ui",
+              "react",
+              "typescript",
+              "web-ui"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1049,12 +1938,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Extensible platform for infrastructure management",
+            "homepage": "https://clutch.sh",
             "id": 259751605,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-13T15:21:49Z",
+            "open_issues": 106,
             "owner": "lyft",
             "repo": "clutch",
-            "stars": 1771
+            "stars": 1771,
+            "topics": [
+              "developer-portal",
+              "infrastructure-management",
+              "lyft"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1065,12 +1963,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "System for containerized apps management. From build to scaling.",
+            "homepage": "https://lastbackend.com",
             "id": 59298603,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-19T04:05:45Z",
+            "open_issues": 9,
             "owner": "lastbackend",
             "repo": "lastbackend",
-            "stars": 1655
+            "stars": 1655,
+            "topics": [
+              "backend",
+              "cd",
+              "ci",
+              "cloud",
+              "container",
+              "containers",
+              "continuous-delivery",
+              "continuous-integration",
+              "devops",
+              "devtools",
+              "docker",
+              "go",
+              "golang",
+              "hosting",
+              "kubernetes",
+              "lastbackend",
+              "orchestration",
+              "paas",
+              "pipeline",
+              "service-discovery"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1081,12 +2005,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A headless e-commerce for JAMstack sites.",
+            "homepage": null,
             "id": 62554992,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-07-11T15:11:30Z",
+            "open_issues": 21,
             "owner": "netlify",
             "repo": "gocommerce",
-            "stars": 1616
+            "stars": 1616,
+            "topics": [
+              "ecommerce",
+              "headless",
+              "jamstack",
+              "managed-services",
+              "platform",
+              "production"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1097,12 +2033,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pirsch is a drop-in, server-side, no-cookie, and privacy-focused analytics solution for Go.",
+            "homepage": "https://pirsch.io",
             "id": 273778332,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T14:04:12Z",
+            "open_issues": 2,
             "owner": "pirsch-analytics",
             "repo": "pirsch",
-            "stars": 1028
+            "stars": 1028,
+            "topics": [
+              "analytics",
+              "go",
+              "golang",
+              "tracking",
+              "traffic"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1113,12 +2060,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web Analytics made simple",
+            "homepage": "https://counter.dev",
             "id": 262767384,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-04-29T10:10:56Z",
+            "open_issues": 44,
             "owner": "ihucos",
             "repo": "counter.dev",
-            "stars": 1007
+            "stars": 1007,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1129,12 +2081,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tania is a farm management software for the hobbyist and smallholder farmer.",
+            "homepage": "https://usetania.org",
             "id": 114613642,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-03T15:02:58Z",
+            "open_issues": 37,
             "owner": "usetania",
             "repo": "tania-core",
-            "stars": 819
+            "stars": 819,
+            "topics": [
+              "ddd-architecture",
+              "end-user",
+              "farm",
+              "farm-management",
+              "farming",
+              "go",
+              "golang",
+              "nextjs",
+              "reactjs",
+              "tania"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1145,12 +2113,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Passwall Server is the core backend infrastructure for Passwall platform",
+            "homepage": "https://passwall.io",
             "id": 253094830,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-06-13T12:00:19Z",
+            "open_issues": 14,
             "owner": "passwall",
             "repo": "passwall-server",
-            "stars": 765
+            "stars": 765,
+            "topics": [
+              "api",
+              "crypto",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "password",
+              "password-manager"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1161,12 +2142,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flexible E-Commerce Framework on top of Flamingo. Used to build E-Commerce \"Portals\" and connect it with the help of individual Adapters to other services. ",
+            "homepage": "https://www.flamingo.me/flamingo-commerce.html",
             "id": 179104176,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T14:49:22Z",
+            "open_issues": 31,
             "owner": "i-love-flamingo",
             "repo": "flamingo-commerce",
-            "stars": 593
+            "stars": 593,
+            "topics": [
+              "commerce",
+              "ecommerce",
+              "flamingo",
+              "framework",
+              "go",
+              "golang",
+              "graphql",
+              "hacktoberfest",
+              "web-framework"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1177,12 +2173,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Squzy - is a high-performance open-source monitoring, incident and alert system written in Golang with Bazel and love. Welcome to free SRE",
+            "homepage": "https://demo.squzy.app/",
             "id": 219348932,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-21T07:40:27Z",
+            "open_issues": 15,
             "owner": "squzy",
             "repo": "squzy",
-            "stars": 478
+            "stars": 478,
+            "topics": [
+              "bazel",
+              "docker",
+              "golang",
+              "grpc",
+              "monitoring",
+              "opensource",
+              "opensource-monitoring",
+              "prometheus",
+              "sitemap",
+              "sre",
+              "zabbix"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1193,12 +2206,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collects logs to monitor and analyse web applications.",
+            "homepage": null,
             "id": 247498186,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-07T12:04:57Z",
+            "open_issues": 1,
             "owner": "jz222",
             "repo": "logowl",
-            "stars": 158
+            "stars": 158,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1209,12 +2227,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "📋 a modern, open-source pastebin with latex and markdown rendering support",
+            "homepage": "https://ctrl-v.app/",
             "id": 262635344,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-07-09T22:05:15Z",
+            "open_issues": 17,
             "owner": "jackyzha0",
             "repo": "ctrl-v",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "go",
+              "nextjs",
+              "open-source",
+              "pastebin",
+              "react",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1225,12 +2255,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Accounting Server",
+            "homepage": "https://openaccounting.io",
             "id": 153830574,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-09-22T17:29:47Z",
+            "open_issues": 6,
             "owner": "openaccounting",
             "repo": "oa-server",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1241,12 +2276,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed video delivery",
+            "homepage": "https://gilfoyle.dreamvo.com",
             "id": 131832080,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-07T07:00:14Z",
+            "open_issues": 69,
             "owner": "dreamvo",
             "repo": "gilfoyle",
-            "stars": 99
+            "stars": 99,
+            "topics": [
+              "cloud-native",
+              "encoding",
+              "ffmpeg",
+              "http-live-streaming",
+              "ipfs",
+              "software-as-a-service",
+              "streaming",
+              "transcode-video",
+              "video-processing",
+              "video-streaming",
+              "video-streaming-server"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1257,12 +2309,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple and privacy focused analytics tool written in go. ",
+            "homepage": "https://ketanip.github.io/analytics-box/",
             "id": 402045902,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-11-10T18:14:01Z",
+            "open_issues": 6,
             "owner": "ketanip",
             "repo": "analytics-box",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "analytics",
+              "golang",
+              "google-analytics",
+              "hactoberfest",
+              "javascript",
+              "metrics",
+              "privacy",
+              "privacy-friendly"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1273,12 +2339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1064256352,
             "language": "Go",
+            "license": null,
             "last_commit": "2025-10-08T21:44:33Z",
+            "open_issues": 0,
             "owner": "danielgestwa",
             "repo": "OpenChat",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         }
@@ -1295,12 +2366,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome! ",
+            "homepage": "https://matomo.org/",
             "id": 1548202,
             "language": "PHP",
-            "last_commit": "2026-08-28T17:39:50Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T01:46:33Z",
+            "open_issues": 2571,
             "owner": "matomo-org",
             "repo": "matomo",
-            "stars": 21825
+            "stars": 21825,
+            "topics": [
+              "analytics",
+              "growth",
+              "hacktoberfest",
+              "intranet",
+              "log",
+              "marketing",
+              "matomo",
+              "mobile",
+              "mysql",
+              "php",
+              "piwik",
+              "privacy",
+              "security",
+              "web-analytics",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1311,12 +2403,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.",
+            "homepage": "https://wordpress.org",
             "id": 2889328,
             "language": "PHP",
-            "last_commit": "2026-08-28T22:30:08Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:04:08Z",
+            "open_issues": 3,
             "owner": "WordPress",
             "repo": "WordPress",
-            "stars": 21371
+            "stars": 21371,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1327,12 +2424,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.",
+            "homepage": "http://www.magento.com",
             "id": 2884111,
             "language": "PHP",
+            "license": "OSL-3.0",
             "last_commit": "2026-08-28T11:11:43Z",
+            "open_issues": 2134,
             "owner": "magento",
             "repo": "magento2",
-            "stars": 12169
+            "stars": 12169,
+            "topics": [
+              "ecommerce",
+              "ecommerce-platform",
+              "hacktoberfest",
+              "magento",
+              "magento2",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1343,12 +2452,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PrestaShop is the universal open-source software platform to build your e-commerce solution.",
+            "homepage": "https://www.prestashop-project.org/",
             "id": 6763587,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T07:41:31Z",
+            "open_issues": 2032,
             "owner": "PrestaShop",
             "repo": "PrestaShop",
-            "stars": 9201
+            "stars": 9201,
+            "topics": [
+              "cms",
+              "ecommerce",
+              "ecommerce-framework",
+              "ecommerce-platform",
+              "hacktoberfest",
+              "php",
+              "php-framework",
+              "prestashop"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1359,12 +2482,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Twake is a secure open source collaboration platform to improve organizational productivity. ",
+            "homepage": "https://twake.app",
             "id": 515697494,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2022-07-19T14:07:38Z",
+            "open_issues": 0,
             "owner": "Twake",
             "repo": "Twake",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -1377,12 +2505,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Headless open-source eCommerce platform on top of PHP/Symfony/API Platform",
+                "homepage": "https://sylius.com",
                 "id": 2717549,
                 "language": "PHP",
-                "last_commit": "2026-08-28T04:41:49Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:11:00Z",
+                "open_issues": 215,
                 "owner": "Sylius",
                 "repo": "Sylius",
-                "stars": 8516
+                "stars": 8516,
+                "topics": [
+                  "api",
+                  "api-ecommerce",
+                  "ecommerce",
+                  "ecommerce-platform",
+                  "framework",
+                  "hacktoberfest",
+                  "headless",
+                  "headless-ecommerce",
+                  "php",
+                  "rest-api",
+                  "restful-api",
+                  "shop",
+                  "shopping-cart",
+                  "sylius",
+                  "symfony",
+                  "symfony-bundle"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1393,12 +2543,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions",
+                "homepage": "https://shopware.com",
                 "id": 131995661,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:22:07Z",
+                "open_issues": 1328,
                 "owner": "shopware",
                 "repo": "shopware",
-                "stars": 3409
+                "stars": 3409,
+                "topics": [
+                  "api-first-cms",
+                  "apifirst",
+                  "digital-commerce",
+                  "ecommerce",
+                  "ecommerce-platform",
+                  "experience-commerce",
+                  "experience-manager",
+                  "hacktoberfest",
+                  "headless-cms",
+                  "magento",
+                  "online-shop",
+                  "online-store",
+                  "php",
+                  "prestashop",
+                  "shop",
+                  "shopping-cart",
+                  "shopware",
+                  "storefront",
+                  "symfony",
+                  "vuejs"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             }
@@ -1416,12 +2592,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚦 Cachet, the open source, self-hosted status page system.",
+                "homepage": "https://cachethq.io",
                 "id": 26730195,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T07:09:48Z",
+                "open_issues": 6,
                 "owner": "cachethq",
                 "repo": "cachet",
-                "stars": 15229
+                "stars": 15229,
+                "topics": [
+                  "cachet",
+                  "laravel",
+                  "php",
+                  "self-hosted",
+                  "selfhosted",
+                  "status-page",
+                  "statuspages"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1432,12 +2621,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.",
+                "homepage": "https://webhook.site",
                 "id": 54372926,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-22T10:28:58Z",
+                "open_issues": 25,
                 "owner": "webhooksite",
                 "repo": "webhook.site",
-                "stars": 6719
+                "stars": 6719,
+                "topics": [
+                  "angular",
+                  "frontend",
+                  "laravel",
+                  "push-notifications",
+                  "spa",
+                  "sqlite",
+                  "webhook"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1448,12 +2650,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)",
+                "homepage": "https://freescout.net",
                 "id": 138328462,
                 "language": "PHP",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T11:14:59Z",
+                "open_issues": 36,
                 "owner": "freescout-help-desk",
                 "repo": "freescout",
-                "stars": 4511
+                "stars": 4511,
+                "topics": [
+                  "customer-support",
+                  "help-desk",
+                  "helpdesk",
+                  "helpdesk-ticketing",
+                  "helpscout",
+                  "laravel",
+                  "osticket-alternative",
+                  "php",
+                  "shared-mailboxes",
+                  "support",
+                  "ticketing",
+                  "ticketing-system",
+                  "zendesk",
+                  "zendesk-alternative"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1464,12 +2686,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Organize Your GitHub Stars With Ease",
+                "homepage": "https://astralapp.com",
                 "id": 32222363,
                 "language": "PHP",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-11T16:48:42Z",
+                "open_issues": 40,
                 "owner": "astralapp",
                 "repo": "astral",
-                "stars": 3571
+                "stars": 3571,
+                "topics": [
+                  "github",
+                  "organize",
+                  "stars",
+                  "tags"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1480,12 +2712,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LinkAce is a self-hosted archive to collect links of your favorite websites.",
+                "homepage": "https://www.linkace.org",
                 "id": 145748938,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T14:18:08Z",
+                "open_issues": 53,
                 "owner": "Kovah",
                 "repo": "LinkAce",
-                "stars": 3328
+                "stars": 3327,
+                "topics": [
+                  "archive",
+                  "archiving",
+                  "bookmark-manager",
+                  "bookmark-managers",
+                  "bookmarking",
+                  "bookmarks",
+                  "docker",
+                  "hacktoberfest",
+                  "laravel",
+                  "php",
+                  "self-hosted",
+                  "selfhosted"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1496,12 +2746,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.",
+                "homepage": null,
                 "id": 81873619,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-11-12T22:28:22Z",
+                "open_issues": 9,
                 "owner": "Hasnayeen",
                 "repo": "invobook",
-                "stars": 2236
+                "stars": 2236,
+                "topics": [
+                  "client-management",
+                  "filament",
+                  "filamentadmin",
+                  "invoice",
+                  "laravel",
+                  "php",
+                  "project-management",
+                  "tailwindcss",
+                  "time-tracker"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1512,12 +2777,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Guild - Build Your Guild and award employees with Crypto 💰",
+                "homepage": null,
                 "id": 456431465,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2022-03-17T16:30:03Z",
+                "open_issues": 1,
                 "owner": "guildso",
                 "repo": "guild",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "alpinejs",
+                  "blockchain",
+                  "laravel",
+                  "livewire",
+                  "solana",
+                  "solana-token",
+                  "tailwindcss"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             }
@@ -1535,12 +2813,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!",
+                "homepage": "https://passbolt.com",
                 "id": 52319036,
                 "language": "PHP",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-21T08:02:59Z",
+                "open_issues": 29,
                 "owner": "passbolt",
                 "repo": "passbolt_api",
-                "stars": 6095
+                "stars": 6095,
+                "topics": [
+                  "cakephp",
+                  "cakephp5",
+                  "credentials",
+                  "passbolt",
+                  "password",
+                  "password-manager",
+                  "php",
+                  "productivity",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             }
@@ -1558,12 +2851,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.",
+                "homepage": "https://www.dolibarr.org",
                 "id": 1957456,
                 "language": "PHP",
-                "last_commit": "2026-08-28T20:53:03Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T04:01:45Z",
+                "open_issues": 1094,
                 "owner": "Dolibarr",
                 "repo": "dolibarr",
-                "stars": 7549
+                "stars": 7549,
+                "topics": [
+                  "accounting",
+                  "agenda",
+                  "crm",
+                  "erp",
+                  "hacktoberfest",
+                  "human-resource-managment",
+                  "invoice",
+                  "invoices",
+                  "invoicing",
+                  "mysql",
+                  "orders",
+                  "php",
+                  "postgresql",
+                  "proposal",
+                  "purchase",
+                  "quotations",
+                  "sales",
+                  "stock",
+                  "stocks",
+                  "suppliers"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             }
@@ -1587,12 +2906,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+                "homepage": "https://plausible.io",
                 "id": 160427405,
                 "language": "Elixir",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-27T09:21:12Z",
+                "open_issues": 62,
                 "owner": "plausible",
                 "repo": "analytics",
-                "stars": 28787
+                "stars": 28787,
+                "topics": [
+                  "analytics",
+                  "analytics-dashboard",
+                  "clickhouse",
+                  "elixir",
+                  "google-analytics",
+                  "marketing",
+                  "open-source-analytics",
+                  "phoenix",
+                  "plausible-analytics",
+                  "postgresql",
+                  "privacy",
+                  "privacy-friendly",
+                  "self-hosted",
+                  "simple-analytics",
+                  "statistics",
+                  "tailwindcss",
+                  "web-analytics",
+                  "website-analytics",
+                  "website-stats",
+                  "website-tracking"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1603,12 +2948,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]",
+                "homepage": "https://docs.teslamate.org",
                 "id": 178738556,
                 "language": "Elixir",
-                "last_commit": "2026-08-28T17:56:06Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T00:39:44Z",
+                "open_issues": 66,
                 "owner": "teslamate-org",
                 "repo": "teslamate",
-                "stars": 8925
+                "stars": 8925,
+                "topics": [
+                  "dashboard",
+                  "datalogger",
+                  "docker",
+                  "elixir-lang",
+                  "grafana",
+                  "hacktoberfest",
+                  "home-automation",
+                  "mqtt",
+                  "nix",
+                  "nix-flake",
+                  "openstreetmap",
+                  "phoenix-liveview",
+                  "raspberry-pi",
+                  "self-hosted",
+                  "srtm",
+                  "tesla",
+                  "tesla-api"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1619,12 +2987,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
+                "homepage": "https://supabase.com/realtime",
                 "id": 210347143,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T19:11:23Z",
+                "open_issues": 63,
                 "owner": "supabase",
                 "repo": "realtime",
-                "stars": 7625
+                "stars": 7625,
+                "topics": [
+                  "cdc",
+                  "change-data-capture",
+                  "crdt",
+                  "distributed-systems",
+                  "elixir",
+                  "phoenix",
+                  "phoenix-framework",
+                  "postgres",
+                  "postgresql",
+                  "pubsub",
+                  "realtime"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1635,12 +3020,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source live customer chat",
+                "homepage": null,
                 "id": 279895213,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2024-02-15T05:21:47Z",
+                "open_issues": 179,
                 "owner": "papercups-io",
                 "repo": "papercups",
-                "stars": 6101
+                "stars": 6101,
+                "topics": [
+                  "chat-widget",
+                  "customer-support",
+                  "docker",
+                  "drift",
+                  "elixir",
+                  "elixir-phoenix",
+                  "frontend",
+                  "gdpr-compliant",
+                  "help-desk",
+                  "heroku",
+                  "intercom",
+                  "javascript",
+                  "livechat",
+                  "mattermost",
+                  "phoenix",
+                  "phoenix-framework",
+                  "react",
+                  "slack",
+                  "typescript",
+                  "zendesk"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1651,12 +3062,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Newsletter Tool.",
+                "homepage": "https://keila.io",
                 "id": 326066599,
                 "language": "Elixir",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T22:17:51Z",
+                "open_issues": 81,
                 "owner": "pentacent",
                 "repo": "keila",
-                "stars": 2194
+                "stars": 2194,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1667,12 +3083,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The first developer-oriented translation tool. True asynchronous flow between translators and your team.",
+                "homepage": "https://www.accent.reviews",
                 "id": 125938964,
                 "language": "Elixir",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-19T16:46:38Z",
+                "open_issues": 27,
                 "owner": "mirego",
                 "repo": "accent",
-                "stars": 1494
+                "stars": 1494,
+                "topics": [
+                  "absinthe",
+                  "accent",
+                  "ecto",
+                  "elixir",
+                  "elixir-phoenix",
+                  "emberjs",
+                  "graphql",
+                  "i18n"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1683,12 +3113,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crawly, a high-level web crawling & scraping framework for Elixir. ",
+                "homepage": "https://hexdocs.pm/crawly",
                 "id": 174680350,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-16T13:44:19Z",
+                "open_issues": 8,
                 "owner": "elixir-crawly",
                 "repo": "crawly",
-                "stars": 1114
+                "stars": 1114,
+                "topics": [
+                  "crawler",
+                  "crawling",
+                  "elixir",
+                  "erlang",
+                  "extract-data",
+                  "scraper",
+                  "scraping",
+                  "scraping-websites",
+                  "spider"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1699,12 +3144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript.",
+                "homepage": "https://logflare.app",
                 "id": 165115442,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T22:55:49Z",
+                "open_issues": 89,
                 "owner": "Logflare",
                 "repo": "logflare",
-                "stars": 1004
+                "stars": 1004,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1715,12 +3165,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trello inspired kanban board made with the Godot Engine and GDScript, with a real-time collaborative backend (Elixir and Phoenix Channels) and a local backend for offline usage (Godot Custom Resources)",
+                "homepage": null,
                 "id": 260865935,
                 "language": "GDScript",
+                "license": "MIT",
                 "last_commit": "2023-09-16T06:18:55Z",
+                "open_issues": 8,
                 "owner": "alfredbaudisch",
                 "repo": "Godello",
-                "stars": 886
+                "stars": 886,
+                "topics": [
+                  "elixir",
+                  "elixir-lang",
+                  "elixir-phoenix",
+                  "gdscript",
+                  "godot",
+                  "godot-engine",
+                  "godotengine",
+                  "phoenix-framework"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1731,12 +3195,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Better company announcements",
+                "homepage": "https://constable.io",
                 "id": 30313192,
                 "language": "Elixir",
+                "license": "AGPL-3.0",
                 "last_commit": "2021-10-08T12:18:33Z",
+                "open_issues": 27,
                 "owner": "thoughtbot",
                 "repo": "constable",
-                "stars": 513
+                "stars": 513,
+                "topics": [
+                  "communication",
+                  "elixir",
+                  "elixir-phoenix",
+                  "thoughtbot",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1747,12 +3222,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Today I Learned",
+                "homepage": "https://til.hashrocket.com",
                 "id": 74161388,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2025-11-07T20:33:31Z",
+                "open_issues": 4,
                 "owner": "hashrocket",
                 "repo": "tilex",
-                "stars": 507
+                "stars": 507,
+                "topics": [
+                  "elixir",
+                  "hacktoberfest",
+                  "hashrocket",
+                  "heroku",
+                  "phoenix",
+                  "til",
+                  "ueberauth"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1763,12 +3251,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Phoenix web server for Hubs",
+                "homepage": null,
                 "id": 105199856,
                 "language": "Elixir",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-23T08:59:32Z",
+                "open_issues": 84,
                 "owner": "Hubs-Foundation",
                 "repo": "reticulum",
-                "stars": 459
+                "stars": 459,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1779,12 +3272,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Niex is an interactive Elixir code notebook built with Phoenix LiveView.",
+                "homepage": null,
                 "id": 322704261,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2021-02-06T07:56:41Z",
+                "open_issues": 2,
                 "owner": "jonklein",
                 "repo": "niex",
-                "stars": 415
+                "stars": 415,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1795,12 +3293,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Archive of bytepack.io",
+                "homepage": null,
                 "id": 318256012,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2020-12-03T17:21:50Z",
+                "open_issues": 0,
                 "owner": "dashbitco",
                 "repo": "bytepack_archive",
-                "stars": 335
+                "stars": 335,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1811,12 +3314,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Realtime social news app developed from scratch with Elixir, Phoenix, Vue and Vuex",
+                "homepage": "https://loopa-news.herokuapp.com",
                 "id": 76485480,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-01-30T06:58:03Z",
+                "open_issues": 1,
                 "owner": "Angarsk8",
                 "repo": "Loopa-News",
-                "stars": 320
+                "stars": 320,
+                "topics": [
+                  "elixir",
+                  "phoenix",
+                  "realtime",
+                  "vue",
+                  "vuex"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1827,12 +3341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The whole shaboodle for textdb, a simple data sharing service",
+                "homepage": "https://textdb.dev",
                 "id": 280703755,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2023-01-06T12:25:19Z",
+                "open_issues": 18,
                 "owner": "bontaq",
                 "repo": "textdb",
-                "stars": 319
+                "stars": 319,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1843,12 +3362,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Community site for Elixir project/blog post/version updates",
+                "homepage": "http://elixirstatus.com",
                 "id": 37824741,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2020-09-03T23:39:23Z",
+                "open_issues": 26,
                 "owner": "rrrene",
                 "repo": "elixirstatus-web",
-                "stars": 285
+                "stars": 285,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1859,12 +3383,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A turn-based browser RPG built with Phoenix LiveView",
+                "homepage": "https://browsermoba.com",
                 "id": 170792694,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-05-09T08:54:53Z",
+                "open_issues": 9,
                 "owner": "pedromtavares",
                 "repo": "moba",
-                "stars": 197
+                "stars": 197,
+                "topics": [
+                  "liveview",
+                  "phoenix",
+                  "rpg"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1875,12 +3408,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An OpenSource Ecommerce platform on the Elixir/Phoenix stack, which aims to leverage the power of functional programming for ecommerce.",
+                "homepage": null,
                 "id": 215171433,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2023-01-25T06:04:50Z",
+                "open_issues": 35,
                 "owner": "amacgregor",
                 "repo": "crimson_commerce",
-                "stars": 93
+                "stars": 93,
+                "topics": [
+                  "ecommerce",
+                  "ecommerce-platform",
+                  "elixir",
+                  "phoenix"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1891,12 +3434,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Elixir/Phoenix app for tracking daily habits, ready to deploy to Heroku.",
+                "homepage": null,
                 "id": 60970490,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2024-08-28T08:56:59Z",
+                "open_issues": 8,
                 "owner": "stevegrossi",
                 "repo": "habits",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "elixir",
+                  "habit-tracking",
+                  "heroku",
+                  "phoenix",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1907,12 +3461,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An online Risk-like game built with Elixir and Phoenix LiveView",
+                "homepage": "https://www.playsengoku.com/",
                 "id": 102414376,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2023-01-06T06:44:38Z",
+                "open_issues": 33,
                 "owner": "stevegrossi",
                 "repo": "sengoku",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "elixir",
+                  "game",
+                  "phoenix-liveview"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1923,12 +3486,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "💰 A super fast money management app.",
+                "homepage": null,
                 "id": 98346186,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2018-02-05T22:53:21Z",
+                "open_issues": 0,
                 "owner": "nicksergeant",
                 "repo": "leather",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "elixir",
+                  "money-manager",
+                  "phoenix",
+                  "plaid",
+                  "react",
+                  "redux"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1939,12 +3514,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Air Quality Data for Locations around the World",
+                "homepage": "https://breethe.app",
                 "id": 123891724,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2023-12-15T20:23:53Z",
+                "open_issues": 13,
                 "owner": "mainmatter",
                 "repo": "breethe-server",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1955,12 +3535,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source url shortener written in Elixir and Phoenix, with no need for a separate database",
+                "homepage": null,
                 "id": 280945105,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-06T12:19:08Z",
+                "open_issues": 15,
                 "owner": "supersimple",
                 "repo": "devito",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1971,12 +3556,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A project management tool created with Elixir, Phoenix and Dgraph",
+                "homepage": null,
                 "id": 210943965,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2023-01-06T02:10:46Z",
+                "open_issues": 18,
                 "owner": "code-shoily",
                 "repo": "karma_werks",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "dgraph",
+                  "elixir",
+                  "phoenix",
+                  "project-management",
+                  "stenciljs"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -1987,12 +3583,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A social platform built with Elixir and Phoenix Framework",
+                "homepage": "http://embers.gigalixirapp.com/",
                 "id": 318045168,
                 "language": "Elixir",
+                "license": "GPL-3.0",
                 "last_commit": "2021-06-27T22:41:12Z",
+                "open_issues": 5,
                 "owner": "EmbersPlatform",
                 "repo": "embers",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -2003,12 +3604,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍺 An Elixir app to post Untappd checkins to Slack.",
+                "homepage": "https://slacktapped.com",
                 "id": 66716669,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2021-04-02T02:12:05Z",
+                "open_issues": 0,
                 "owner": "nicksergeant",
                 "repo": "slacktapped",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -2019,12 +3625,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CMS of sorts.",
+                "homepage": null,
                 "id": 29387790,
                 "language": "Elixir",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T12:34:45Z",
+                "open_issues": 88,
                 "owner": "brandocms",
                 "repo": "brando",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -2035,12 +3646,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An automated to-do scheduler based on your availability",
+                "homepage": null,
                 "id": 309235355,
                 "language": "Elixir",
+                "license": "AGPL-3.0",
                 "last_commit": "2021-06-08T19:07:38Z",
+                "open_issues": 15,
                 "owner": "sekunho",
                 "repo": "butler",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "elixir",
+                  "genetic-algorithm",
+                  "postgresql",
+                  "privacy",
+                  "productivity",
+                  "scheduling"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             },
@@ -2051,12 +3674,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wizard for moving a Cozy from one place to another",
+                "homepage": null,
                 "id": 315297004,
                 "language": "Elixir",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-12T17:31:30Z",
+                "open_issues": 12,
                 "owner": "cozy",
                 "repo": "cozy-move",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             }
@@ -2074,12 +3702,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Package manager for the Erlang ecosystem.",
+                "homepage": "https://hex.pm",
                 "id": 15400465,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-08-27T17:29:50Z",
+                "open_issues": 7,
                 "owner": "hexpm",
                 "repo": "hex",
-                "stars": 1087
+                "stars": 1087,
+                "topics": [
+                  "elixir",
+                  "erlang",
+                  "hacktoberfest",
+                  "package-manager"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             }
@@ -2101,12 +3739,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
+            "homepage": "https://airbyte.com",
             "id": 283046497,
             "language": "Python",
-            "last_commit": "2026-08-28T23:36:23Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:20:25Z",
+            "open_issues": 2356,
             "owner": "airbytehq",
             "repo": "airbyte",
-            "stars": 21969
+            "stars": 21970,
+            "topics": [
+              "bigquery",
+              "change-data-capture",
+              "data",
+              "data-analysis",
+              "data-collection",
+              "data-engineering",
+              "data-integration",
+              "data-pipeline",
+              "elt",
+              "etl",
+              "java",
+              "mssql",
+              "mysql",
+              "pipeline",
+              "postgresql",
+              "python",
+              "redshift",
+              "s3",
+              "self-hosted",
+              "snowflake"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         },
@@ -2117,12 +3781,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A complete web conferencing system for virtual classes and more!",
+            "homepage": "https://bigbluebutton.org",
             "id": 684382,
             "language": "JavaScript",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-28T20:42:20Z",
+            "open_issues": 717,
             "owner": "bigbluebutton",
             "repo": "bigbluebutton",
-            "stars": 9202
+            "stars": 9202,
+            "topics": [
+              "bigbluebutton",
+              "collaboration",
+              "conferencing",
+              "video",
+              "video-conferencing",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         }
@@ -2141,12 +3817,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kind metrics analytics for your website",
+                "homepage": null,
                 "id": 263928864,
                 "language": "Crystal",
+                "license": "MIT",
                 "last_commit": "2023-01-08T15:24:45Z",
+                "open_issues": 21,
                 "owner": "kindmetrics",
                 "repo": "kindmetrics",
-                "stars": 98
+                "stars": 98,
+                "topics": [
+                  "analytics",
+                  "crystal",
+                  "google-analytics",
+                  "lucky-framework",
+                  "privacy"
+                ]
               },
               "first_seen": "2026-08-28T23:59:31.478Z"
             }
@@ -2168,12 +3855,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
+            "homepage": "https://logseq.com",
             "id": 266231149,
             "language": "Clojure",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T17:16:24Z",
+            "open_issues": 963,
             "owner": "logseq",
             "repo": "logseq",
-            "stars": 44671
+            "stars": 44673,
+            "topics": [
+              "clojure",
+              "clojurescript",
+              "git",
+              "graph",
+              "knowledge-base",
+              "knowledge-graph",
+              "local-first",
+              "markdown",
+              "note-taking",
+              "org-mode",
+              "pkm"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         }
@@ -2190,12 +3894,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bitwarden infrastructure/backend (API, database, Docker, etc).",
+            "homepage": "https://bitwarden.com",
             "id": 46755185,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:02:28Z",
+            "open_issues": 220,
             "owner": "bitwarden",
             "repo": "server",
-            "stars": 19950
+            "stars": 19950,
+            "topics": [
+              "api",
+              "aspnet",
+              "aspnetcore",
+              "bitwarden",
+              "csharp",
+              "docker",
+              "dotnet",
+              "dotnet-core",
+              "signalr",
+              "sql",
+              "sql-server"
+            ]
           },
           "first_seen": "2026-08-28T23:59:31.478Z"
         }
@@ -2204,15 +3925,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:59:31.478Z",
+    "last_updated": "2026-08-29T04:44:20.351Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of Open Source production-ready web projects",
+      "homepage": "https://open-web-projects.netlify.app",
       "id": 273798710,
       "language": "HTML",
+      "license": "GPL-3.0",
       "last_commit": "2026-05-03T10:05:33Z",
+      "open_issues": 203,
       "owner": "sdil",
       "repo": "open-production-web-projects",
-      "stars": 489
+      "stars": 489,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "f0f1e02ad39b2246e0921c1538c2e46ad7b2d486",
     "enhanced_repository": "enhansome/enhansome-open-production-web-projects",
