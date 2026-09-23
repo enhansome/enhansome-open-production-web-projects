@@ -48,21 +48,21 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 
 ### Django
 
-* [Sentry](https://github.com/getsentry/sentry) ⭐ 44,825 | 🐛 2,286 | 🌐 Python | 📅 2026-09-22 - Cross-platform application monitoring, with a focus on error reporting.
-* [PostHog](https://github.com/PostHog/posthog) ⭐ 39,899 | 🐛 5,603 | 🌐 Python | 📅 2026-09-22 - Developer-friendly, open-source product analytics
-* [Zulip](https://github.com/zulip/zulip) ⭐ 25,934 | 🐛 2,018 | 🌐 Python | 📅 2026-09-22 - Powerful, open source group chat application that combines the immediacy of real-time chat with the productivity benefits of threaded conversations.
-* [Saleor](https://github.com/mirumee/saleor) ⭐ 23,365 | 🐛 277 | 🌐 Python | 📅 2026-09-21 - Modular, high performance, headless e-commerce storefront.
-* [Doccano](https://github.com/doccano/doccano) ⭐ 10,772 | 🐛 398 | 🌐 Python | 📅 2026-04-14 - Open source text annotation tool for machine learning practitioner.
-* [Flagsmith](https://github.com/Flagsmith/flagsmith-api) ⭐ 6,564 | 🐛 726 | 🌐 Python | 📅 2026-09-22 - Feature flagging and remote config service
+* [Sentry](https://github.com/getsentry/sentry) ⭐ 44,830 | 🐛 2,285 | 🌐 Python | 📅 2026-09-23 - Cross-platform application monitoring, with a focus on error reporting.
+* [PostHog](https://github.com/PostHog/posthog) ⭐ 39,909 | 🐛 5,621 | 🌐 Python | 📅 2026-09-23 - Developer-friendly, open-source product analytics
+* [Zulip](https://github.com/zulip/zulip) ⭐ 25,941 | 🐛 2,028 | 🌐 Python | 📅 2026-09-23 - Powerful, open source group chat application that combines the immediacy of real-time chat with the productivity benefits of threaded conversations.
+* [Saleor](https://github.com/mirumee/saleor) ⭐ 23,369 | 🐛 279 | 🌐 Python | 📅 2026-09-23 - Modular, high performance, headless e-commerce storefront.
+* [Doccano](https://github.com/doccano/doccano) ⭐ 10,773 | 🐛 398 | 🌐 Python | 📅 2026-04-14 - Open source text annotation tool for machine learning practitioner.
+* [Flagsmith](https://github.com/Flagsmith/flagsmith-api) ⭐ 6,567 | 🐛 733 | 🌐 Python | 📅 2026-09-23 - Feature flagging and remote config service
 * [Cabot](https://github.com/arachnys/cabot) ⭐ 5,678 | 🐛 166 | 🌐 JavaScript | 📅 2023-09-10 - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
 * [Shynet](https://github.com/milesmcc/shynet) ⭐ 3,155 | 🐛 64 | 🌐 Python | 📅 2026-03-15 - Modern, privacy-friendly, and cookie-free web analytics.
 * [Hawkpost](https://github.com/whitesmith/hawkpost) ⭐ 952 | 🐛 9 | 🌐 Python | 📅 2024-12-09 - Generate links that users can use to submit messages encrypted with your public key.
-* [Mozilla Add-on](https://github.com/mozilla/addons-server) ⭐ 902 | 🐛 23 | 🌐 Python | 📅 2026-09-22 - Mozilla Firefox add-on listing page
-* [Taiga](https://github.com/taigaio/taiga-back) ⭐ 851 | 🐛 93 | 🌐 Python | 📅 2026-09-21 - Agile project management platform.
+* [Mozilla Add-on](https://github.com/mozilla/addons-server) ⭐ 902 | 🐛 28 | 🌐 Python | 📅 2026-09-23 - Mozilla Firefox add-on listing page
+* [Taiga](https://github.com/taigaio/taiga-back) ⭐ 851 | 🐛 92 | 🌐 Python | 📅 2026-09-23 - Agile project management platform.
 * [Piaf](https://github.com/etalab/piaf) ⚠️ Archived - Question Answering annotation platform
 * [thenewboston.com](https://github.com/thenewboston-developers/Website-API) ⭐ 63 | 🐛 1 | 🌐 Python | 📅 2022-01-17 - REST API for thenewboston.com.
 * [Ship](https://github.com/TechFrederick/ship) ⚠️ Archived - Services web app for SHIP, Student Homelessness Initiative Partnership of Frederick County
-* [edX](https://github.com/edx/edx-platform) ⭐ 11 | 🐛 55 | 🌐 Python | 📅 2026-09-22 - A massive open online course (MOOC) provider created by Harvard and MIT.
+* [edX](https://github.com/edx/edx-platform) ⭐ 11 | 🐛 56 | 🌐 Python | 📅 2026-09-23 - A massive open online course (MOOC) provider created by Harvard and MIT.
 * [lifesavingrankings](https://github.com/rubenvanerk/lifesavingrankings) ⚠️ Archived - Lifesaving Rankings tracks results for lifesaving pool competitions
 * [Baserow](https://gitlab.com/briancaffey/baserow) - Baserow is an open source online database tool and Airtable alternative. Create your own database without technical experience
 * [SEC Filings App](https://gitlab.com/briancaffey/sec-filings-app) - A web app comprised of an API and web UI for viewing and analyzing SEC 13F filing data
@@ -78,31 +78,31 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 
 ### Ruby on Rails
 
-* [Mastodon](https://github.com/tootsuite/mastodon) ⭐ 50,308 | 🐛 4,571 | 🌐 Ruby | 📅 2026-09-22 - free, open-source social network server based on ActivityPub where users can follow friends and discover new ones
-* [Discourse](https://github.com/discourse/discourse) ⭐ 47,885 | 🐛 241 | 🌐 Ruby | 📅 2026-09-22 - A platform for community discussion built for the next decade of the Internet.
-* [Dev.to](https://github.com/thepracticaldev/dev.to) ⭐ 22,780 | 🐛 140 | 🌐 Ruby | 📅 2026-09-22 - A platform where software developers write articles, take part in discussions, and build their professional profiles.
-* [Spree](https://github.com/spree/spree) ⭐ 15,716 | 🐛 156 | 🌐 Ruby | 📅 2026-09-22 - E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting
-* [Zammad](https://github.com/zammad/zammad) ⭐ 5,941 | 🐛 453 | 🌐 Ruby | 📅 2026-09-22 - Zammad is a web based open source helpdesk/customer support system with many features to manage customer communication via several channels like telephone, facebook, twitter, chat and e-mails
-* [Solectrus](https://github.com/solectrus/solectrus) ⭐ 165 | 🐛 51 | 🌐 Ruby | 📅 2026-09-22 - Photovoltaics Dashboard
+* [Mastodon](https://github.com/tootsuite/mastodon) ⭐ 50,318 | 🐛 4,580 | 🌐 Ruby | 📅 2026-09-23 - free, open-source social network server based on ActivityPub where users can follow friends and discover new ones
+* [Discourse](https://github.com/discourse/discourse) ⭐ 47,887 | 🐛 246 | 🌐 Ruby | 📅 2026-09-23 - A platform for community discussion built for the next decade of the Internet.
+* [Dev.to](https://github.com/thepracticaldev/dev.to) ⭐ 22,779 | 🐛 141 | 🌐 Ruby | 📅 2026-09-23 - A platform where software developers write articles, take part in discussions, and build their professional profiles.
+* [Spree](https://github.com/spree/spree) ⭐ 15,717 | 🐛 158 | 🌐 Ruby | 📅 2026-09-23 - E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting
+* [Zammad](https://github.com/zammad/zammad) ⭐ 5,946 | 🐛 455 | 🌐 Ruby | 📅 2026-09-23 - Zammad is a web based open source helpdesk/customer support system with many features to manage customer communication via several channels like telephone, facebook, twitter, chat and e-mails
+* [Solectrus](https://github.com/solectrus/solectrus) ⭐ 165 | 🐛 51 | 🌐 Ruby | 📅 2026-09-23 - Photovoltaics Dashboard
 
 ## Javascript
 
-* [RocketChat](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,151 | 🐛 4,087 | 🌐 TypeScript | 📅 2026-09-22 - Free Open Source Solution for team communications
+* [RocketChat](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,158 | 🐛 4,101 | 🌐 TypeScript | 📅 2026-09-23 - Free Open Source Solution for team communications
 * [Reaction](https://github.com/reactioncommerce/reaction) ⭐ 12,401 | 🐛 96 | 🌐 JavaScript | 📅 2026-03-01 - Reaction is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
 * [Spectrum Chat](https://github.com/withspectrum/spectrum) ⚠️ Archived - Simple, powerful online communities.
 * [Statusfy](https://github.com/juliomrqz/statusfy) ⚠️ Archived - Statusfy is a Status Page System, easy to use and completely Open Source. You can easily create a fast System, Static Generated, and easily deploy it to a variety of hosting services.
-* [Parabol](https://github.com/ParabolInc/parabol) ⭐ 2,012 | 🐛 95 | 🌐 TypeScript | 📅 2026-09-22 - Free online agile retrospective meeting tool
+* [Parabol](https://github.com/ParabolInc/parabol) ⭐ 2,012 | 🐛 93 | 🌐 TypeScript | 📅 2026-09-23 - Free online agile retrospective meeting tool
 * [Paisley](https://github.com/uduakabaci/Paisley) ⭐ 104 | 🐛 2 | 🌐 JavaScript | 📅 2021-09-01 - Paisley is an open-source alternative to mailbrew built with freedom in mind.
 
 ### Apollo Server
 
-* [Wiki.js](https://github.com/Requarks/wiki) ⭐ 28,950 | 🐛 181 | 🌐 Vue | 📅 2026-09-22 - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
+* [Wiki.js](https://github.com/Requarks/wiki) ⭐ 28,957 | 🐛 182 | 🌐 Vue | 📅 2026-09-23 - Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
 * [Ackee](https://github.com/electerious/Ackee) ⭐ 4,709 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-19 - Self-hosted, Node.js based analytics tool for those who care about privacy.
 
 ### Express
 
-* [Chartbrew](https://github.com/chartbrew/chartbrew) ⭐ 4,061 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-21 - Open-source web platform for creating charts out of different data sources (databases and APIs
-* [Gladys](https://github.com/GladysAssistant/Gladys) ⭐ 3,201 | 🐛 42 | 🌐 JavaScript | 📅 2026-09-22 - A privacy-first, open-source home assistant
+* [Chartbrew](https://github.com/chartbrew/chartbrew) ⭐ 4,063 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-21 - Open-source web platform for creating charts out of different data sources (databases and APIs
+* [Gladys](https://github.com/GladysAssistant/Gladys) ⭐ 3,201 | 🐛 42 | 🌐 JavaScript | 📅 2026-09-23 - A privacy-first, open-source home assistant
 * [Veniqa](https://github.com/Viveckh/Veniqa) ⭐ 1,190 | 🐛 74 | 🌐 JavaScript | 📅 2023-03-02 - Full Stack E-Commerce Solution. Veniqa (Originally Veniqa New York) was a New York-based fashion retail startup that served consumers in South Asian countries to shop from luxury western brands.
 * [Posnic](https://github.com/Posnic/POS) ⭐ 5 | 🐛 402 | 🌐 JavaScript | 📅 2026-09-22 - AGPL open-source POS and billing software with offline-first checkout and optional online/self-hosted workflows ([website](https://www.posnic.com/)).
 * [Gitter](https://gitlab.com/gitlab-org/gitter/webapp) - A community for software developers
@@ -113,8 +113,8 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 
 ### NextJS
 
-* [Calendso](https://github.com/calendso/calendso) ⭐ 48,614 | 🐛 1,431 | 🌐 TypeScript | 📅 2026-09-20 - The open-source Calendly alternative.
-* [Umami](https://github.com/mikecao/umami) ⭐ 38,951 | 🐛 113 | 🌐 TypeScript | 📅 2026-09-21 - Umami is a simple, fast, website analytics alternative to Google Analytics.
+* [Calendso](https://github.com/calendso/calendso) ⭐ 48,625 | 🐛 1,428 | 🌐 TypeScript | 📅 2026-09-20 - The open-source Calendly alternative.
+* [Umami](https://github.com/mikecao/umami) ⭐ 38,974 | 🐛 113 | 🌐 TypeScript | 📅 2026-09-23 - Umami is a simple, fast, website analytics alternative to Google Analytics.
 * [Cusdis](https://github.com/djyde/cusdis) ⚠️ Archived - lightweight, privacy-friendly alternative to Disqus.
 
 ### Fastify
@@ -123,11 +123,11 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 
 ### Loopback
 
-* [Freecodecamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 455,971 | 🐛 216 | 🌐 TypeScript | 📅 2026-09-22 - Open source codebase and curriculum. Learn to code at home
+* [Freecodecamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 456,044 | 🐛 210 | 🌐 TypeScript | 📅 2026-09-23 - Open source codebase and curriculum. Learn to code at home
 
 ### Koa
 
-* [Joplin](https://github.com/laurent22/joplin) ⭐ 56,470 | 🐛 640 | 🌐 TypeScript | 📅 2026-09-22 - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS
+* [Joplin](https://github.com/laurent22/joplin) ⭐ 56,477 | 🐛 644 | 🌐 TypeScript | 📅 2026-09-23 - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS
 * [Twitter Search](https://github.com/saasify-sh/twitter-search) ⭐ 351 | 🐛 7 | 🌐 TypeScript | 📅 2023-03-04 - Instantly search across your entire Twitter history.
 
 ### AWS Amplify
@@ -136,21 +136,21 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 
 ## Go
 
-* [Mattermost](https://github.com/mattermost/mattermost-server) ⭐ 39,145 | 🐛 1,010 | 🌐 TypeScript | 📅 2026-09-22 - Open source, private cloud, Slack-alternative
-* [Drone](https://github.com/drone/drone) ⭐ 38,420 | 🐛 111 | 🌐 Go | 📅 2026-09-21 - Container-Native, Continuous Delivery Platform
-* [listmonk](https://github.com/knadh/listmonk) ⭐ 23,528 | 🐛 119 | 🌐 Go | 📅 2026-09-13 - listmonk is a standalone, self-hosted, newsletter and mailing list manager
-* [MailHog](https://github.com/mailhog/MailHog) ⭐ 16,165 | 🐛 256 | 🌐 Go | 📅 2024-02-13 - Web and API based SMTP testing
-* [Open Replay](https://github.com/openreplay/openreplay) ⭐ 12,889 | 🐛 179 | 🌐 TypeScript | 📅 2026-09-22 - developer-friendly, open-source session replay.
-* [Sreengo](https://github.com/screego/server) ⭐ 10,697 | 🐛 18 | 🌐 Go | 📅 2026-08-20 - screen sharing for developers
+* [Mattermost](https://github.com/mattermost/mattermost-server) ⭐ 39,163 | 🐛 1,007 | 🌐 TypeScript | 📅 2026-09-23 - Open source, private cloud, Slack-alternative
+* [Drone](https://github.com/drone/drone) ⭐ 38,425 | 🐛 111 | 🌐 Go | 📅 2026-09-21 - Container-Native, Continuous Delivery Platform
+* [listmonk](https://github.com/knadh/listmonk) ⭐ 23,545 | 🐛 120 | 🌐 Go | 📅 2026-09-13 - listmonk is a standalone, self-hosted, newsletter and mailing list manager
+* [MailHog](https://github.com/mailhog/MailHog) ⭐ 16,167 | 🐛 256 | 🌐 Go | 📅 2024-02-13 - Web and API based SMTP testing
+* [Open Replay](https://github.com/openreplay/openreplay) ⭐ 12,891 | 🐛 180 | 🌐 TypeScript | 📅 2026-09-23 - developer-friendly, open-source session replay.
+* [Sreengo](https://github.com/screego/server) ⭐ 10,703 | 🐛 18 | 🌐 Go | 📅 2026-08-20 - screen sharing for developers
 * [Berty](https://github.com/berty/berty) ⭐ 9,306 | 🐛 95 | 🌐 TypeScript | 📅 2026-09-17 - A secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-* [GrowthBook](https://github.com/growthbook/growthbook) ⭐ 8,419 | 🐛 834 | 🌐 TypeScript | 📅 2026-09-22 - The Open Source A/B Testing Platform
-* [Fanthom](https://github.com/usefathom/fathom) ⭐ 8,020 | 🐛 6 | 🌐 Go | 📅 2026-03-18 - Simple, privacy-focused website analytics
+* [GrowthBook](https://github.com/growthbook/growthbook) ⭐ 8,420 | 🐛 824 | 🌐 TypeScript | 📅 2026-09-23 - The Open Source A/B Testing Platform
+* [Fanthom](https://github.com/usefathom/fathom) ⭐ 8,019 | 🐛 6 | 🌐 Go | 📅 2026-03-18 - Simple, privacy-focused website analytics
 * [Statping](https://github.com/statping/statping) ⭐ 7,292 | 🐛 48 | 🌐 Vue | 📅 2024-07-05 - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
-* [Goat Counter](https://github.com/zgoat/goatcounter) ⭐ 5,993 | 🐛 49 | 🌐 Go | 📅 2026-09-20 - GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. It aims to offer easy to use and meaningful privacy-friendly web analytics as an alternative to Google Analytics or Matomo.
-* [Flipt](https://github.com/markphelps/flipt) ⭐ 4,907 | 🐛 39 | 🌐 Go | 📅 2026-09-22 - A modern feature flag solution
-* [Fider](https://github.com/getfider/fider) ⭐ 4,539 | 🐛 61 | 🌐 Go | 📅 2026-09-19 - Open platform to collect and prioritize product feedback
+* [Goat Counter](https://github.com/zgoat/goatcounter) ⭐ 5,997 | 🐛 49 | 🌐 Go | 📅 2026-09-20 - GoatCounter is an open source web analytics platform available as a hosted service (free for non-commercial use) or self-hosted app. It aims to offer easy to use and meaningful privacy-friendly web analytics as an alternative to Google Analytics or Matomo.
+* [Flipt](https://github.com/markphelps/flipt) ⭐ 4,908 | 🐛 40 | 🌐 Go | 📅 2026-09-23 - A modern feature flag solution
+* [Fider](https://github.com/getfider/fider) ⭐ 4,541 | 🐛 61 | 🌐 Go | 📅 2026-09-23 - Open platform to collect and prioritize product feedback
 * [Wakapi](https://github.com/muety/wakapi) ⭐ 4,434 | 🐛 37 | 🌐 Go | 📅 2026-09-18 - A minimalist, self-hosted WakaTime-compatible backend for coding statistics.
-* [Kowl](https://github.com/cloudhut/kowl) ⭐ 4,334 | 🐛 149 | 🌐 TypeScript | 📅 2026-09-22 - Apache Kafka Web UI for exploring messages, consumers, configurations and more with a focus on a good UI & UX.
+* [Kowl](https://github.com/cloudhut/kowl) ⭐ 4,334 | 🐛 148 | 🌐 TypeScript | 📅 2026-09-23 - Apache Kafka Web UI for exploring messages, consumers, configurations and more with a focus on a good UI & UX.
 * [Clutch](https://github.com/lyft/clutch) ⚠️ Archived - An extensible platform for infrastructure management
 * [LastBackend](https://github.com/lastbackend/lastbackend) ⭐ 1,654 | 🐛 9 | 🌐 Go | 📅 2023-07-19 - Last.Backend container management platform is the new and modern open-source container management system with service discovery, overlay networks and more
 * [GoCommerce](https://github.com/netlify/gocommerce) ⭐ 1,616 | 🐛 21 | 🌐 Go | 📅 2025-07-11 - A headless e-commerce for JAMstack sites
@@ -172,47 +172,47 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 
 ## PHP
 
-* [Matomo](https://github.com/matomo-org/matomo) ⭐ 21,892 | 🐛 2,570 | 🌐 PHP | 📅 2026-09-22 - The leading Free/Libre open analytics platform.
-* [Wordpress](https://github.com/WordPress/WordPress) ⭐ 21,432 | 🐛 3 | 🌐 PHP | 📅 2026-09-22 - Content Management System.
-* [Magento](https://github.com/magento/magento2) ⭐ 12,198 | 🐛 2,202 | 🌐 PHP | 📅 2026-09-21 - E-commerce platform, created using Zend Framework.
-* [PrestaShop](https://github.com/PrestaShop/PrestaShop) ⭐ 9,217 | 🐛 2,374 | 🌐 PHP | 📅 2026-09-22 - Fully scalable open source ecommerce solution
+* [Matomo](https://github.com/matomo-org/matomo) ⭐ 21,893 | 🐛 2,566 | 🌐 PHP | 📅 2026-09-23 - The leading Free/Libre open analytics platform.
+* [Wordpress](https://github.com/WordPress/WordPress) ⭐ 21,434 | 🐛 3 | 🌐 PHP | 📅 2026-09-23 - Content Management System.
+* [Magento](https://github.com/magento/magento2) ⭐ 12,198 | 🐛 2,209 | 🌐 PHP | 📅 2026-09-21 - E-commerce platform, created using Zend Framework.
+* [PrestaShop](https://github.com/PrestaShop/PrestaShop) ⭐ 9,217 | 🐛 2,374 | 🌐 PHP | 📅 2026-09-23 - Fully scalable open source ecommerce solution
 * [Twake](https://github.com/Twake/Twake) ⭐ 0 | 🐛 0 | 📅 2022-07-19 - Twake is a collaborative platform which improves teamwork
 
 ### Symfony
 
-* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,540 | 🐛 232 | 🌐 PHP | 📅 2026-09-22 - Open Source eCommerce Platform
-* [Shopware](https://github.com/shopware/platform) ⭐ 3,430 | 🐛 1,403 | 🌐 PHP | 📅 2026-09-22 - Shopware 6 is an open source ecommerce platform based on a quite modern technology stack that is powered by Symfony and Vue.js
+* [Sylius](https://github.com/Sylius/Sylius) ⭐ 8,541 | 🐛 231 | 🌐 PHP | 📅 2026-09-23 - Open Source eCommerce Platform
+* [Shopware](https://github.com/shopware/platform) ⭐ 3,430 | 🐛 1,417 | 🌐 PHP | 📅 2026-09-23 - Shopware 6 is an open source ecommerce platform based on a quite modern technology stack that is powered by Symfony and Vue.js
 
 ### Laravel
 
-* [Cachet](https://github.com/CachetHQ/Cachet) ⭐ 15,249 | 🐛 6 | 🌐 PHP | 📅 2026-09-21 - An open source status page system for everyone.
-* [Webhook.site](https://github.com/fredsted/webhook.site) ⭐ 6,760 | 🐛 28 | 🌐 JavaScript | 📅 2026-07-22 - Easily test HTTP webhooks with this handy tool that displays requests instantly.
-* [FreeScout](https://github.com/freescout-helpdesk/freescout) ⭐ 4,549 | 🐛 27 | 🌐 PHP | 📅 2026-09-22 - FreeScout is the super lightweight free open source help desk and shared inbox written in PHP7 (Laravel 5.5 framework) – self hosted clone of HelpScout
-* [Astral](https://github.com/astralapp/astral) ⭐ 3,583 | 🐛 40 | 🌐 PHP | 📅 2026-07-11 - An open source application that allows you to organize your GitHub Stars with ease
-* [LinkAce](https://github.com/Kovah/LinkAce/) ⭐ 3,337 | 🐛 56 | 🌐 PHP | 📅 2026-09-21 - Your self-hosted bookmark archive. Free and open source.
-* [Goodwork](https://github.com/iluminar/goodwork) ⭐ 2,235 | 🐛 9 | 🌐 PHP | 📅 2025-11-12 - Self hosted project management and collaboration tool inspired by basecamp.
+* [Cachet](https://github.com/CachetHQ/Cachet) ⭐ 15,248 | 🐛 6 | 🌐 PHP | 📅 2026-09-21 - An open source status page system for everyone.
+* [Webhook.site](https://github.com/fredsted/webhook.site) ⭐ 6,762 | 🐛 27 | 🌐 JavaScript | 📅 2026-07-22 - Easily test HTTP webhooks with this handy tool that displays requests instantly.
+* [FreeScout](https://github.com/freescout-helpdesk/freescout) ⭐ 4,554 | 🐛 27 | 🌐 PHP | 📅 2026-09-23 - FreeScout is the super lightweight free open source help desk and shared inbox written in PHP7 (Laravel 5.5 framework) – self hosted clone of HelpScout
+* [Astral](https://github.com/astralapp/astral) ⭐ 3,584 | 🐛 40 | 🌐 PHP | 📅 2026-07-11 - An open source application that allows you to organize your GitHub Stars with ease
+* [LinkAce](https://github.com/Kovah/LinkAce/) ⭐ 3,338 | 🐛 56 | 🌐 PHP | 📅 2026-09-21 - Your self-hosted bookmark archive. Free and open source.
+* [Goodwork](https://github.com/iluminar/goodwork) ⭐ 2,234 | 🐛 9 | 🌐 PHP | 📅 2025-11-12 - Self hosted project management and collaboration tool inspired by basecamp.
 * [Guild](https://github.com/guildso/guild) ⭐ 8 | 🐛 1 | 🌐 PHP | 📅 2022-03-17 - Guild.so is an open-source self-hosted team management solution.
 
 ### CakePHP
 
-* [Passbolt](https://github.com/passbolt/passbolt_api) ⭐ 6,133 | 🐛 26 | 🌐 PHP | 📅 2026-09-17 - Open source password manager for teams
+* [Passbolt](https://github.com/passbolt/passbolt_api) ⭐ 6,136 | 🐛 26 | 🌐 PHP | 📅 2026-09-17 - Open source password manager for teams
 
 ### Restler
 
-* [Dolibarr](https://github.com/Dolibarr/dolibarr) ⭐ 7,646 | 🐛 1,047 | 🌐 PHP | 📅 2026-09-22 - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...)
+* [Dolibarr](https://github.com/Dolibarr/dolibarr) ⭐ 7,651 | 🐛 1,021 | 🌐 PHP | 📅 2026-09-23 - Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...)
 
 ## Elixir
 
 ### Phoenix
 
-* [Plausible](https://github.com/plausible/analytics) ⭐ 29,187 | 🐛 65 | 🌐 Elixir | 📅 2026-09-22 - A simple and privacy friendly web analytics, alternative to Google Analytics.
-* [Teslamate](https://github.com/adriankumpf/teslamate) ⭐ 9,020 | 🐛 64 | 🌐 Elixir | 📅 2026-09-21 - A self-hosted data logger for your Tesla
-* [Supabase Realtime](https://github.com/supabase/realtime) ⭐ 7,638 | 🐛 75 | 🌐 Elixir | 📅 2026-09-22 - Listens to changes in a PostgreSQL Database and broadcasts them over websockets.
-* [Papercups](https://github.com/papercups-io/papercups) ⭐ 6,113 | 🐛 179 | 🌐 Elixir | 📅 2024-02-15 - Open source live customer chat web app written in Elixir
-* [Keila](https://github.com/pentacent/keila) ⭐ 2,218 | 🐛 79 | 🌐 Elixir | 📅 2026-09-21 - Open Source Newsletter Tool, alternative to newsletter tools like Mailchimp or Sendinblue
+* [Plausible](https://github.com/plausible/analytics) ⭐ 29,195 | 🐛 62 | 🌐 Elixir | 📅 2026-09-23 - A simple and privacy friendly web analytics, alternative to Google Analytics.
+* [Teslamate](https://github.com/adriankumpf/teslamate) ⭐ 9,030 | 🐛 64 | 🌐 Elixir | 📅 2026-09-23 - A self-hosted data logger for your Tesla
+* [Supabase Realtime](https://github.com/supabase/realtime) ⭐ 7,639 | 🐛 73 | 🌐 Elixir | 📅 2026-09-23 - Listens to changes in a PostgreSQL Database and broadcasts them over websockets.
+* [Papercups](https://github.com/papercups-io/papercups) ⭐ 6,114 | 🐛 179 | 🌐 Elixir | 📅 2024-02-15 - Open source live customer chat web app written in Elixir
+* [Keila](https://github.com/pentacent/keila) ⭐ 2,218 | 🐛 80 | 🌐 Elixir | 📅 2026-09-21 - Open Source Newsletter Tool, alternative to newsletter tools like Mailchimp or Sendinblue
 * [Accent](https://github.com/mirego/accent) ⭐ 1,493 | 🐛 29 | 🌐 Elixir | 📅 2026-06-19 - Open-source, self-hosted, developer-oriented translation tool
-* [Crawly](https://github.com/oltarasenko/crawly) ⭐ 1,117 | 🐛 9 | 🌐 Elixir | 📅 2025-07-16 - Crawly, a high-level web crawling & scraping framework for Elixir.
-* [Logflare](https://github.com/Logflare/logflare) ⭐ 1,005 | 🐛 90 | 🌐 Elixir | 📅 2026-09-22 - Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript.
+* [Crawly](https://github.com/oltarasenko/crawly) ⭐ 1,117 | 🐛 10 | 🌐 Elixir | 📅 2025-07-16 - Crawly, a high-level web crawling & scraping framework for Elixir.
+* [Logflare](https://github.com/Logflare/logflare) ⭐ 1,005 | 🐛 99 | 🌐 Elixir | 📅 2026-09-23 - Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript.
 * [Godello](https://github.com/alfredbaudisch/Godello) ⭐ 888 | 🐛 8 | 🌐 GDScript | 📅 2023-09-16 - Trello inspired kanban board made with the Godot Engine and GDScript, powered by an online real-time collaborative backend (Elixir and Phoenix Channels)
 * [Constable](https://github.com/thoughtbot/constable) ⚠️ Archived - Better company announcements
 * [Tilex](https://github.com/hashrocket/tilex) ⭐ 507 | 🐛 4 | 🌐 Elixir | 📅 2025-11-07 - Today I Learned
@@ -232,7 +232,7 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 * [KarmaWerks](https://github.com/code-shoily/karma_werks) ⭐ 21 | 🐛 18 | 🌐 Elixir | 📅 2023-01-06 - A project management tool created with Elixir, Phoenix and Dgraph
 * [Embers](https://github.com/EmbersPlatform/embers) ⚠️ Archived - A microblogging platform alternative to mainstream social networks
 * [Slacktapped](https://github.com/nicksergeant/slacktapped) ⭐ 14 | 🐛 0 | 🌐 Elixir | 📅 2021-04-02 - Slacktapped is an Elixir app to post Untappd activity to Slack.
-* [Brando](https://github.com/brandocms/brando) ⭐ 10 | 🐛 41 | 🌐 Elixir | 📅 2026-09-22 - A CMS of sorts.
+* [Brando](https://github.com/brandocms/brando) ⭐ 10 | 🐛 40 | 🌐 Elixir | 📅 2026-09-23 - A CMS of sorts.
 * [Butler](https://github.com/butlerph/butler) ⭐ 5 | 🐛 15 | 🌐 Elixir | 📅 2021-06-08 - A privacy-focused, and simple planner for your to-dos
 * [Cozy Move](https://github.com/cozy/cozy-move) ⭐ 2 | 🐛 12 | 🌐 Elixir | 📅 2026-08-12 - Wizard for moving a Cozy from one place to another
 * [vutuv](https://github.com/vutuv/vutuv) - vutuv is a business network. Think of it as a fast, secure and less annoying open-source alternative for LinkedIn or XING.
@@ -245,8 +245,8 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 
 ## Java
 
-* [Airbyte](https://github.com/airbytehq/airbyte) ⭐ 22,116 | 🐛 2,479 | 🌐 Python | 📅 2026-09-22 - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
-* [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) ⭐ 9,225 | 🐛 733 | 🌐 JavaScript | 📅 2026-09-22 - Complete open source web conferencing system.
+* [Airbyte](https://github.com/airbytehq/airbyte) ⭐ 22,123 | 🐛 2,489 | 🌐 Python | 📅 2026-09-23 - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
+* [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton) ⭐ 9,226 | 🐛 725 | 🌐 JavaScript | 📅 2026-09-23 - Complete open source web conferencing system.
 
 ## Crystal
 
@@ -256,12 +256,12 @@ This project is inspired by [free-for.dev](https://free-for.dev).
 
 ## Clojure
 
-* [Logseq](https://github.com/logseq/logseq) ⭐ 45,017 | 🐛 963 | 🌐 Clojure | 📅 2026-09-22 - A privacy-first, open-source(frontend-only) platform for knowledge sharing and management.
+* [Logseq](https://github.com/logseq/logseq) ⭐ 45,033 | 🐛 955 | 🌐 Clojure | 📅 2026-09-23 - A privacy-first, open-source(frontend-only) platform for knowledge sharing and management.
 
 ## C\#
 
-* [Bitwarden](https://github.com/bitwarden/server) ⭐ 20,183 | 🐛 236 | 🌐 C# | 📅 2026-09-22 - Open source password management solutions for individuals, teams, and business organizations.
+* [Bitwarden](https://github.com/bitwarden/server) ⭐ 20,186 | 🐛 240 | 🌐 C# | 📅 2026-09-23 - Open source password management solutions for individuals, teams, and business organizations.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
